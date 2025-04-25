@@ -158,8 +158,8 @@ This setup uses **two dynamic wallpapers** that switch based on time:
 
 - **Background Color 1**: `#141414`
 - **Background Color 2**: `#141414`
-- **Particle Color**: `#0000ff`
-- **Line Color**: `#ffffff`
+- **Particle Color**: `#4c98f6`
+- **Line Color**: `#0066ff`
 
 ## Applying the Setup
 

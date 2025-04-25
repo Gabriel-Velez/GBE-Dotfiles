@@ -1,0 +1,113 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "[html]": {
+    "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+  },
+  "editor.minimap.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.stickyTabStops": true,
+  "editor.formatOnSave": true,
+  "html.format.indentInnerHtml": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "prettier.printWidth": 100,
+  "javascript.suggest.autoImports": false,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": true,
+  "git.confirmSync": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "advancedNewFile.exclude": {},
+  "editor.fontFamily": "'Comic Code Ligatures', Hasklig, Consolas, 'Courier New', monospace, 'MesloLGLDZ NF'",
+  "editor.fontLigatures": true,
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell",
+      "args": ["-noLogo"]
+    },
+    "Command Prompt": {
+      "path": ["${env:windir}\\Sysnative\\cmd.exe", "${env:windir}\\System32\\cmd.exe"],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  },
+  "editor.fontWeight": "normal",
+  "vscode-edge-devtools.mirrorEdits": true,
+  "vscode-edge-devtools.fallbackRevision": "@a41122be052fe9616f0def5fe6842fa942930d46",
+  "vscode-edge-devtools.themes": "Dark",
+  "vscode-edge-devtools.userDataDir": "${env:HOME}",
+  "debug.javascript.pickAndAttachOptions": {},
+  "launch": {
+    "configurations": [
+      {
+        "type": "msedge",
+        "request": "launch",
+        "name": "localhost",
+        "url": "http://localhost",
+        "webRoot": "${workspaceFolder}",
+        "userDataDir": "${env:HOME}"
+      },
+      {
+        "type": "msedge",
+        "request": "launch",
+        "name": "localhost:3000",
+        "url": "http://localhost:3000",
+        "webRoot": "${workspaceFolder}",
+        "userDataDir": "${env:HOME}"
+      },
+      {
+        "type": "msedge",
+        "request": "launch",
+        "name": "localhost:9000",
+        "url": "http://localhost:9000",
+        "webRoot": "${workspaceFolder}",
+        "userDataDir": "${env:HOME}"
+      },
+      {
+        "type": "msedge",
+        "request": "launch",
+        "name": "localhost:1234",
+        "url": "http://localhost:1234",
+        "webRoot": "${workspaceFolder}",
+        "userDataDir": "${env:HOME}"
+      },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Nodemon",
+        "skipFiles": ["<node_internals>/**"],
+        "program": "${workspaceFolder}/index.js",
+        "runtimeExecutable": "nodemon",
+        "console": "integratedTerminal"
+      },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Jest test",
+        "skipFiles": ["<node_internals>/**"],
+        "runtimeExecutable": "jest",
+        "env": {
+          "NODE_ENV": "testing"
+        },
+        "console": "integratedTerminal"
+      }
+    ],
+    "compounds": []
+  },
+  "workbench.editorAssociations": {
+    "*.db3": "sqlite-viewer.option"
+  },
+  "workbench.sideBar.location": "right",
+  "remote.SSH.remotePlatform": {
+    "sandbox.lcsmks.csb": "linux"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}

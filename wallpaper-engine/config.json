@@ -1,0 +1,4656 @@
+{
+	"?installdirectory" : "C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine",
+	"gabri" : 
+	{
+		"general" : 
+		{
+			"browser" : 
+			{
+				"advertiseexplore" : false,
+				"advertisesendtomobile" : true,
+				"advertiseworkshop" : false,
+				"advertiseworkshoppopup" : false,
+				"agegateconfirmed" : true,
+				"authorblocklistnames" : [],
+				"defaultfilterconfig" : 
+				{
+					"Anime" : false,
+					"recommendedresolution" : false,
+					"showotherresolution" : true
+				},
+				"explore" : 
+				{
+					"custom" : [],
+					"disliked" : [],
+					"favorites" : [],
+					"liked" : []
+				},
+				"filterinfo" : 
+				{
+					"installed" : 
+					{
+						"categorytags" : 
+						{
+							"Preset" : true,
+							"Wallpaper" : true
+						},
+						"descending" : false,
+						"ratingtags" : 
+						{
+							"Everyone" : true,
+							"Mature" : true,
+							"Questionable" : true
+						},
+						"resolutiontags" : 
+						{
+							"1280 x 720" : true,
+							"1366 x 768" : true,
+							"1920 x 1080" : true,
+							"2560 x 1440" : true,
+							"3840 x 2160" : true,
+							"Dual 3840 x 1080" : true,
+							"Dual 5120 x 1440" : true,
+							"Dual 7680 x 2160" : true,
+							"Dual Standard Definition" : true,
+							"Dynamic resolution" : true,
+							"Other resolution" : true,
+							"Portrait 1080 x 1920" : true,
+							"Portrait 1440 x 2560" : true,
+							"Portrait 2160 x 3840" : true,
+							"Portrait 720 x 1280" : true,
+							"Portrait Standard Definition" : true,
+							"Standard Definition" : true,
+							"Triple 11520 x 2160" : true,
+							"Triple 4096 x 768" : true,
+							"Triple 5760 x 1080" : true,
+							"Triple 7680 x 1440" : true,
+							"Triple Standard Definition" : true,
+							"Ultrawide 2560 x 1080" : true,
+							"Ultrawide 3440 x 1440" : true,
+							"Ultrawide Standard Definition" : true
+						},
+						"sort" : "favorite",
+						"sourcetags" : 
+						{
+							"Local" : true,
+							"Official" : true,
+							"Workshop" : true
+						},
+						"tags" : 
+						{
+							"Abstract" : true,
+							"Animal" : true,
+							"Anime" : true,
+							"CGI" : true,
+							"Cartoon" : true,
+							"Cyberpunk" : true,
+							"Fantasy" : true,
+							"Game" : true,
+							"Girls" : true,
+							"Guys" : true,
+							"Landscape" : true,
+							"MMD" : true,
+							"Medieval" : true,
+							"Memes" : true,
+							"Music" : true,
+							"Nature" : true,
+							"Pixel art" : true,
+							"Relaxing" : true,
+							"Retro" : true,
+							"Sci-Fi" : true,
+							"Sports" : true,
+							"Technology" : true,
+							"Television" : true,
+							"Unspecified" : true,
+							"Vehicle" : true
+						},
+						"type" : "",
+						"typetags" : 
+						{
+							"Application" : true,
+							"Scene" : true,
+							"Video" : true,
+							"Web" : true
+						},
+						"utilitytags" : {}
+					},
+					"workshop" : 
+					{
+						"categorytags" : 
+						{
+							"Preset" : true,
+							"Wallpaper" : true
+						},
+						"descending" : false,
+						"filterTitle" : true,
+						"ratingtags" : 
+						{
+							"Everyone" : true,
+							"Mature" : false,
+							"Questionable" : false
+						},
+						"resolutiontags" : 
+						{
+							"1280 x 720" : true,
+							"1366 x 768" : true,
+							"1920 x 1080" : true,
+							"2560 x 1440" : true,
+							"3840 x 2160" : true,
+							"Dual 3840 x 1080" : true,
+							"Dual 5120 x 1440" : true,
+							"Dual 7680 x 2160" : true,
+							"Dual Standard Definition" : true,
+							"Dynamic resolution" : true,
+							"Other resolution" : true,
+							"Portrait 1080 x 1920" : true,
+							"Portrait 1440 x 2560" : true,
+							"Portrait 2160 x 3840" : true,
+							"Portrait 720 x 1280" : true,
+							"Portrait Standard Definition" : true,
+							"Standard Definition" : true,
+							"Triple 11520 x 2160" : true,
+							"Triple 4096 x 768" : true,
+							"Triple 5760 x 1080" : true,
+							"Triple 7680 x 1440" : true,
+							"Triple Standard Definition" : true,
+							"Ultrawide 2560 x 1080" : true,
+							"Ultrawide 3440 x 1440" : true,
+							"Ultrawide Standard Definition" : true
+						},
+						"sort" : "top_rated",
+						"sourcetags" : 
+						{
+							"Local" : true,
+							"Official" : true,
+							"Workshop" : true
+						},
+						"tags" : 
+						{
+							"Abstract" : true,
+							"Animal" : true,
+							"Anime" : false,
+							"CGI" : true,
+							"Cartoon" : true,
+							"Cyberpunk" : true,
+							"Fantasy" : true,
+							"Game" : true,
+							"Girls" : true,
+							"Guys" : true,
+							"Landscape" : true,
+							"MMD" : true,
+							"Medieval" : true,
+							"Memes" : true,
+							"Music" : true,
+							"Nature" : true,
+							"Pixel art" : true,
+							"Relaxing" : true,
+							"Retro" : true,
+							"Sci-Fi" : true,
+							"Sports" : true,
+							"Technology" : true,
+							"Television" : true,
+							"Unspecified" : false,
+							"Vehicle" : true
+						},
+						"type" : "",
+						"typetags" : 
+						{
+							"Application" : false,
+							"Scene" : true,
+							"Video" : true,
+							"Web" : true
+						},
+						"utilitytags" : {}
+					}
+				},
+				"folders" : [],
+				"lastselectedmonitor" : "//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}",
+				"paireddevices" : [],
+				"pairingguid" : "805A93A9-3D9B-4DB8-98EF-95ED3ABF9E1E",
+				"resultsperpage" : 100,
+				"seasonaldialogdisabled" : null,
+				"seasonaldialogtimestamp" : 20250089,
+				"showmonitorselectiononstart" : true,
+				"viewiconsize" : "medium"
+			},
+			"editor" : 
+			{
+				"previewratio" : "free",
+				"recentfiles" : [],
+				"showgrid" : true,
+				"showonstartup" : true,
+				"showselectionbox" : true,
+				"showstats" : false
+			},
+			"playlists" : 
+			[
+				{
+					"items" : 
+					[
+						{
+							"daytimeend" : 0.29166666,
+							"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+						},
+						{
+							"daytimeend" : 0.91666669,
+							"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+						},
+						"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+					],
+					"name" : "Schedual",
+					"settings" : 
+					{
+						"delay" : 60,
+						"mode" : "daytime",
+						"order" : "random",
+						"transition" : true,
+						"updateonpause" : false,
+						"videosequence" : false
+					}
+				}
+			],
+			"user" : 
+			{
+				"adjustdwmcolor" : false,
+				"adjustdwmcolormode" : "disabled",
+				"anticrash" : null,
+				"apprules" : [],
+				"audioinputdevice" : "default",
+				"audioinputthreshold" : 0,
+				"audioinputvolume" : 50,
+				"autostart" : true,
+				"autostartscheduler" : true,
+				"autostartx64" : false,
+				"bloom" : null,
+				"browsetransition" : {},
+				"cefcommandline" : "",
+				"fps" : 10,
+				"hasshownhighprioritywarning" : true,
+				"hasshownwelcomedialog" : true,
+				"highprecisiontimer" : false,
+				"iconopacity" : 100,
+				"language" : "default",
+				"loglevel" : "error",
+				"mediablocklist" : null,
+				"mediaintegration" : true,
+				"monitordetection" : "devicepath",
+				"msaa" : "none",
+				"overridelockscreen" : false,
+				"overridewallpaper" : false,
+				"pausevram" : true,
+				"playbackaudio" : "run",
+				"playbackfocus" : "run",
+				"playbackfullscreen" : "pause",
+				"playbackmaximized" : "pause",
+				"playbackonbattery" : "run",
+				"playbacksleep" : "stop",
+				"plugindelay" : 0,
+				"plugins" : 
+				{
+					"ledextensions" : 
+					{
+						"enabled" : false
+					}
+				},
+				"postprocessing" : "disabled",
+				"preset" : "low",
+				"processpriority" : "normal",
+				"reflection" : false,
+				"reloadaudio" : true,
+				"resolution" : "full",
+				"safemode" : false,
+				"shadows" : "medium",
+				"slideshowkiller" : false,
+				"steamlanguage" : "english",
+				"uicmd" : "",
+				"uieffects" : null,
+				"uihardwareacceleration" : true,
+				"uiquality" : "high",
+				"uiskin" : "dark",
+				"uiskinseasonal" : true,
+				"unpauseaero" : true,
+				"usermonitors" : 
+				{
+					"group_694799078" : 
+					{
+						"videoaudiooutput" : false
+					}
+				},
+				"vdesktopenabled" : false,
+				"videoaudiooutput" : true,
+				"videohardwareacceleration" : true,
+				"videoloopmode" : "default",
+				"videomfstutterhack" : false,
+				"videoreadmode" : "fromdisk",
+				"volumetrics" : "medium",
+				"webmframework" : null,
+				"windows7mode" : "compatibility",
+				"windowupdaterate" : 1000
+			},
+			"wallpaperconfig" : 
+			{
+				"layout" : 1,
+				"profile" : null,
+				"selectedwallpapers" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+					},
+					"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+						"playlist" : 
+						{
+							"items" : 
+							[
+								{
+									"daytimeend" : 0.29166666,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+								},
+								{
+									"daytimeend" : 0.91666669,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+								},
+								"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+							],
+							"name" : "Schedual",
+							"settings" : 
+							{
+								"delay" : 60,
+								"mode" : "daytime",
+								"order" : "random",
+								"transition" : true,
+								"updateonpause" : false,
+								"videosequence" : false
+							}
+						}
+					},
+					"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+						"playlist" : 
+						{
+							"items" : 
+							[
+								{
+									"daytimeend" : 0.29166666,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+								},
+								{
+									"daytimeend" : 0.91666669,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+								},
+								"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+							],
+							"name" : "Schedual",
+							"settings" : 
+							{
+								"delay" : 60,
+								"mode" : "daytime",
+								"order" : "random",
+								"transition" : true,
+								"updateonpause" : false,
+								"videosequence" : false
+							}
+						}
+					},
+					"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+						"playlist" : 
+						{
+							"items" : 
+							[
+								{
+									"daytimeend" : 0.29166667,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+								},
+								{
+									"daytimeend" : 0.89583331,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+								},
+								"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+							],
+							"name" : "Schedual",
+							"settings" : 
+							{
+								"delay" : 60,
+								"mode" : "daytime",
+								"order" : "random",
+								"transition" : true,
+								"updateonpause" : false,
+								"videosequence" : false
+							}
+						}
+					},
+					"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+						"playlist" : 
+						{
+							"items" : 
+							[
+								{
+									"daytimeend" : 0.29166666,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+								},
+								{
+									"daytimeend" : 0.91666669,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+								},
+								"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+							],
+							"name" : "Schedual",
+							"settings" : 
+							{
+								"delay" : 60,
+								"mode" : "daytime",
+								"order" : "random",
+								"transition" : true,
+								"updateonpause" : false,
+								"videosequence" : false
+							}
+						}
+					},
+					"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+						"playlist" : 
+						{
+							"items" : 
+							[
+								{
+									"daytimeend" : 0.29166666,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+								},
+								{
+									"daytimeend" : 0.91666669,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+								},
+								"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+							],
+							"name" : "Schedual",
+							"settings" : 
+							{
+								"delay" : 60,
+								"mode" : "daytime",
+								"order" : "random",
+								"transition" : true,
+								"updateonpause" : false,
+								"videosequence" : false
+							}
+						}
+					},
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+					},
+					"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+						"playlist" : 
+						{
+							"items" : 
+							[
+								{
+									"daytimeend" : 0.29166666,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+								},
+								{
+									"daytimeend" : 0.91666669,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+								},
+								"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+							],
+							"name" : "Schedual",
+							"settings" : 
+							{
+								"delay" : 60,
+								"mode" : "daytime",
+								"order" : "random",
+								"transition" : true,
+								"updateonpause" : false,
+								"videosequence" : false
+							}
+						}
+					},
+					"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+						"playlist" : 
+						{
+							"items" : 
+							[
+								{
+									"daytimeend" : 0.29166666,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+								},
+								{
+									"daytimeend" : 0.91666669,
+									"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+								},
+								"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+							],
+							"name" : "Schedual",
+							"settings" : 
+							{
+								"delay" : 60,
+								"mode" : "daytime",
+								"order" : "random",
+								"transition" : true,
+								"updateonpause" : false,
+								"videosequence" : false
+							}
+						}
+					}
+				}
+			},
+			"wallpaperconfigrecent" : 
+			[
+				{
+					"config" : 
+					{
+						"layout" : 2,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Swirl {Color Customizable} (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 1,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Swirl {Color Customizable} (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 1,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Swirl {Color Customizable} (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 1,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Black (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 2,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Swirl {Color Customizable} (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 1,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Swirl {Color Customizable} (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 2,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Swirl {Color Customizable} (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 1,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Black (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 1,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Swirl {Color Customizable} (3)"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 1,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//./DISPLAY1" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166667,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.89583331,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM5BE5#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							},
+							"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+								"playlist" : 
+								{
+									"items" : 
+									[
+										{
+											"daytimeend" : 0.29166666,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+										},
+										{
+											"daytimeend" : 0.91666669,
+											"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg"
+										},
+										"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json"
+									],
+									"name" : "Schedual",
+									"settings" : 
+									{
+										"delay" : 60,
+										"mode" : "daytime",
+										"order" : "random",
+										"transition" : true,
+										"updateonpause" : false,
+										"videosequence" : false
+									}
+								}
+							}
+						}
+					},
+					"playlist" : true,
+					"title" : "Black (3)"
+				}
+			],
+			"wallpaperconfigscreensaver" : 
+			{
+				"layout" : 0,
+				"sameaswallpaper" : true
+			},
+			"wallpaperpresets" : null,
+			"wpresets" : 
+			{
+				"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg" : 
+				{
+					"presets" : 
+					[
+						{
+							"name" : "Blue",
+							"properties" : 
+							{
+								"alignment" : 0,
+								"alignmentfliph" : false,
+								"alignmentposition" : 50,
+								"alignmentx" : 50,
+								"alignmenty" : 50,
+								"alignmentz" : 100,
+								"audioprocessing" : true,
+								"audioresponsivedots" : false,
+								"background" : "0.1411764705882353 0.4627450980392157 0.996078431372549",
+								"cameraparallax" : true,
+								"chromaticaberration" : false,
+								"color1" : "1 1 1",
+								"color2" : "0.19607843137254902 0.12156862745098039 0.996078431372549",
+								"dotscolor" : "1 1 1",
+								"newproperty" : 0.079999998,
+								"parallaxdelay" : 0.11,
+								"rate" : 51,
+								"schemecolor" : "0.00000 0.00000 0.00000",
+								"wec_brs" : 50,
+								"wec_con" : 50,
+								"wec_e" : false,
+								"wec_hue" : 50,
+								"wec_sa" : 50
+							}
+						}
+					]
+				}
+			}
+		},
+		"version" : 4,
+		"wallpaperproperties" : 
+		[
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2047635490/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true
+					},
+					"group_694799078" : 
+					{
+						"alignmentfliph" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1493910771/scene.pkg",
+				"monitors" : 
+				{
+					"group_694799078" : 
+					{
+						"alignment" : 1,
+						"alignmentposition" : 24,
+						"wec_e" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine/projects/defaultprojects/shimmering_particles/scene.json",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"color2" : "1 0 0",
+						"schemecolor" : "0 1 0"
+					},
+					"group_694799078" : 
+					{
+						"color2" : "0 1 1",
+						"schemecolor" : "0 0 1"
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2518168944/night0001-4800.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					},
+					"group_694799078" : 
+					{
+						"wec_e" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2518148582/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true,
+						"rate" : 112
+					},
+					"group_694799078" : 
+					{
+						"alignmentfliph" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2354046860/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 70,
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2319997662/Cyberpunk 2077 2020.12.12 - 20.49.18.02.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 0,
+						"rate" : 200,
+						"volume" : 26
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1835356871/단비에게 과자먹방을 시켜보았더니.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"rate" : 192
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1495762234/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1780053558/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 0,
+						"rate" : 91
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/843532366/gifscene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 54
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine/projects/defaultprojects/dino_run/scene.json",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 1,
+						"alignmentposition" : 0,
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine/projects/defaultprojects/audiophile/audiophile.json",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"schemecolor" : "0 0 1"
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2582757782/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true,
+						"alignmentposition" : 68,
+						"audioprocessing" : false,
+						"fish1" : 1.3,
+						"reflectionstrength" : 0.25999999,
+						"volume" : 0,
+						"wec_con" : 75,
+						"wec_e" : true,
+						"wec_sa" : 47
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2586970359/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 4,
+						"alignmentfliph" : true,
+						"alignmentposition" : 0,
+						"alignmentz" : 118,
+						"disableclock" : false,
+						"wec_e" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/833227004/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true,
+						"alignmentposition" : 0,
+						"wec_e" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2134765860/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 88
+					},
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100,
+						"audio_responsive_settings" : true,
+						"showseconds" : false
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2198745021/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 72
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1377789269/bloom.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 36,
+						"wec_e" : true,
+						"wec_hue" : 7
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1899937275/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"24_hour_format" : false,
+						"alignmentposition" : 69,
+						"new_property" : 44.099998,
+						"show_seconds" : false,
+						"zoom" : 1.12
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1658864143/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2574590107/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100,
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2593802559/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 4,
+						"alignmentposition" : 89,
+						"alignmentx" : 44,
+						"alignmenty" : 45,
+						"barheight" : 26,
+						"schemecolor" : "1 1 1",
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentfliph" : true,
+						"background" : "0 0.6901960784313725 1",
+						"color2" : "0 0 1",
+						"newproperty" : 0.029999999,
+						"wec_e" : true
+					},
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true,
+						"audioprocessing" : false,
+						"background" : "0.611764705882353 0.7372549019607844 0.9568627450980393",
+						"color1" : "0.20392156862745098 0.6078431372549019 0.984313725490196",
+						"color2" : "0.21176470588235294 0.27058823529411763 0.30980392156862746",
+						"newproperty" : 0.0099999998,
+						"parallaxdelay" : 0.0099999998
+					},
+					"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true,
+						"alignmentposition" : 17,
+						"background" : "0.3254901960784314 0.5490196078431373 0.9058823529411765",
+						"color2" : "0.16862745098039217 0.21568627450980393 0.9098039215686274",
+						"newproperty" : 0.0099999998,
+						"parallaxdelay" : 0.0099999998
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2176097362/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"dance_move" : "1"
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2596848703/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 4,
+						"alignmentposition" : 0,
+						"alignmentx" : 41,
+						"alignmenty" : 59,
+						"alignmentz" : 116
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2587244631/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100,
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2458742164/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 76
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2593845061/1080P_4000K_218393791.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2089189338/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2394043899/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 90
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2238745662/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true,
+						"alignmentposition" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1781466079/合成 1_1.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 0,
+						"volume" : 53
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2370927443/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2207659298/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 4,
+						"alignmentx" : 46,
+						"alignmentz" : 116
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2600154404/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604513736/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 75
+					},
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 75,
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2601830372/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 30
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2578535318/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 81,
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2069330381/2020-04-21 18-21-30.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 33
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2600927463/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 0,
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2600507699/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2366399762/video0_2 (1).mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 71,
+						"volume" : 15
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2125326918/index.html",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"size" : 1099
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2156510530/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 2
+					},
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604752698/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"visualizer" : true,
+						"volume" : 62
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1855789870/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 78,
+						"alignmentz" : 92
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1388331347/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1834352724/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 98
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2494462930/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 100
+					},
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100,
+						"volume" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1504316159/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2092337066/Sensology by Michel Gagné - HD 720P - Music by Paul Plimley and Barry Guy_Trim.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 20
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2216027178/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"blur1" : 0.80000001,
+						"custom" : "0 0.25098039215686274 1",
+						"visualizer1" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2155933185/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1743839620/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 72
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2290985735/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 85
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1686768531/2 obr.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1666435207/VoxelSharkSpin.MP4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 97
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1845602744/Diamond Thing HandBrake.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 2,
+						"alignmentposition" : 35,
+						"schemecolor" : "0.10980392156862745 0.12156862745098039 0.11764705882352941"
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1560054743/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1475515618/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2119015051/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100,
+						"wec_brs" : 100,
+						"wec_e" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1439372004/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 63,
+						"wec_con" : 100,
+						"wec_e" : true,
+						"wec_hue" : 100,
+						"wec_sa" : 49
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2255036453/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 89
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2186873353/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 75
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2292377996/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 79
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1818037954/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 63
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2511344903/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 70
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1860758673/The Giant Spawn - 1440p Edition.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 4,
+						"alignmentx" : 53,
+						"alignmenty" : 55,
+						"alignmentz" : 118
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1845230279/index.html",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"main_image_data" : ""
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1889535671/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2321873899/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2237642615/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2228462448/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 30
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2133115738/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 91
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2605245806/patito-con-gorra-bailando-la-cancion-de-hey-ya-4k-60fps.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 4,
+						"alignmentposition" : 40,
+						"alignmentx" : 44,
+						"alignmenty" : 53,
+						"schemecolor" : "1 1 1"
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2569188776/0001-0250.mp4",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 41
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1611712652/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2163980174/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignment" : 4,
+						"alignmentposition" : 82,
+						"alignmentx" : 51,
+						"alignmenty" : 43,
+						"alignmentz" : 109,
+						"schemecolor" : "0.1450980392156863 0.15294117647058825 0.1411764705882353"
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2178084983/scene.pkg",
+				"monitors" : 
+				{
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"alignmentfliph" : true
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"lineColor" : "0 0.5607843137254902 1"
+					},
+					"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"lineColor" : "0.023529411764705882 0.7568627450980392 0.7568627450980392",
+						"lineWidth" : 0.75,
+						"particleColor" : "1 1 1",
+						"particleMaxVel" : 33,
+						"particleMinVel" : 0.75
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2624136412/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 67,
+						"volume" : 34
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2623656455/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 44
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1322410165/06_04_santa_cruz.mp4",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 34
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2358776661/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 53
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2311814660/videoplayback.mp4",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 43,
+						"volume" : 51
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1475745808/魔性　一定要開聲音 　 @qqstl001.mp4",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignment" : 1,
+						"alignmentposition" : 36,
+						"schemecolor" : "1 1 1"
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/764162681/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignment" : 4,
+						"alignmentposition" : 100,
+						"alignmentx" : 45,
+						"alignmenty" : 45
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1774004342/drive by visualdon.mp4",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 0
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2010801421/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentfliph" : true,
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2307578722/cat.mp4",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"volume" : 57
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1619352213/合成撒 1.mp4",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"volume" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1883906261/scene.pkg",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"alignmentposition" : 100
+					}
+				}
+			},
+			{
+				"file" : "C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2193886630/Catjamloop-1.mp4",
+				"monitors" : 
+				{
+					"//./DISPLAY1" : 
+					{
+						"volume" : 0
+					}
+				}
+			}
+		],
+		"wproperties" : 
+		{
+			"C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine/projects/defaultprojects/audiophile/audiophile.json" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"schemecolor" : "0 0 1"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine/projects/defaultprojects/dino_run/scene.json" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 1,
+					"alignmentposition" : 0,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine/projects/defaultprojects/shimmering_particles/scene.json" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"color2" : "1 0 0",
+					"schemecolor" : "0 1 0"
+				},
+				"group_694799078" : 
+				{
+					"color2" : "0 1 1",
+					"schemecolor" : "0 0 1"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1190785367/galshir-ctrl-z.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 4,
+					"alignmentposition" : 62,
+					"alignmentx" : 44,
+					"alignmenty" : 51,
+					"alignmentz" : 116,
+					"schemecolor" : "0.20392156862745098 0.4117647058823529 0.6784313725490196"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1268460398/A9A.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 33
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1320928558/2018-03-05 01-01-13.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1322410165/06_04_santa_cruz.mp4" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 34
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1355236618/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1368159273/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true,
+					"alignmentposition" : 76
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1377789269/bloom.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 36,
+					"wec_e" : true,
+					"wec_hue" : 7
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1388331347/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1439372004/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 63,
+					"wec_con" : 100,
+					"wec_e" : true,
+					"wec_hue" : 100,
+					"wec_sa" : 49
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1475515618/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1475745808/魔性　一定要開聲音 　 @qqstl001.mp4" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignment" : 1,
+					"alignmentposition" : 36,
+					"schemecolor" : "1 1 1"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1493910771/scene.pkg" : 
+			{
+				"group_694799078" : 
+				{
+					"alignment" : 1,
+					"alignmentposition" : 24,
+					"wec_e" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1495762234/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1504316159/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1560054743/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1611712652/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1619352213/合成撒 1.mp4" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"volume" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1658864143/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1666435207/VoxelSharkSpin.MP4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 97
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1686768531/2 obr.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1743839620/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 72
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1774004342/drive by visualdon.mp4" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1780053558/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0,
+					"rate" : 91
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1781466079/合成 1_1.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0,
+					"volume" : 53
+				},
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1818037954/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 63
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1834352724/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 98
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1835356871/단비에게 과자먹방을 시켜보았더니.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"rate" : 192
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1845230279/index.html" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"main_image_data" : ""
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1845602744/Diamond Thing HandBrake.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 2,
+					"alignmentposition" : 35,
+					"schemecolor" : "0.10980392156862745 0.12156862745098039 0.11764705882352941"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1855789870/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 78,
+					"alignmentz" : 92
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1860758673/The Giant Spawn - 1440p Edition.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 4,
+					"alignmentx" : 53,
+					"alignmenty" : 55,
+					"alignmentz" : 118
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1883906261/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1889535671/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1899937275/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"24_hour_format" : false,
+					"alignmentposition" : 69,
+					"new_property" : 44.099998,
+					"show_seconds" : false,
+					"zoom" : 1.12
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2010801421/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentfliph" : true,
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2019160872/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2047635490/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true
+				},
+				"group_694799078" : 
+				{
+					"alignmentfliph" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2069330381/2020-04-21 18-21-30.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 33
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2089189338/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2092337066/Sensology by Michel Gagné - HD 720P - Music by Paul Plimley and Barry Guy_Trim.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 20
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2119015051/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100,
+					"wec_brs" : 100,
+					"wec_e" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2120054900/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100,
+					"rate" : 104
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2125326918/index.html" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"size" : 1099
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2133115738/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 91
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2134765860/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 88
+				},
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100,
+					"audio_responsive_settings" : true,
+					"showseconds" : false
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2155933185/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2156510530/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 2
+				},
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2163980174/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 4,
+					"alignmentposition" : 82,
+					"alignmentx" : 51,
+					"alignmenty" : 43,
+					"alignmentz" : 109,
+					"schemecolor" : "0.1450980392156863 0.15294117647058825 0.1411764705882353"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2176097362/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"dance_move" : "1"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2178084983/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2186873353/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 75
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2193886630/Catjamloop-1.mp4" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2198745021/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 72
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2207659298/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 4,
+					"alignmentx" : 46,
+					"alignmentz" : 116
+				},
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 40
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2216027178/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"blur1" : 0.80000001,
+					"custom" : "0 0.25098039215686274 1",
+					"visualizer1" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2228462448/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 30
+				},
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2237642615/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2238745662/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true,
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2255036453/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 89
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2290985735/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 85
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2292377996/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 79
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2307578722/cat.mp4" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"volume" : 57
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2311814660/videoplayback.mp4" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 43,
+					"volume" : 51
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2319997662/Cyberpunk 2077 2020.12.12 - 20.49.18.02.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0,
+					"rate" : 200,
+					"volume" : 26
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2321873899/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2354046860/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 70,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2358776661/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 53
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2366399762/video0_2 (1).mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 71,
+					"volume" : 15
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2370927443/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2394043899/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 90
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2444472355/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true,
+					"alignmentposition" : 41
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2458742164/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 76
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2494462930/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 100
+				},
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2511344903/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 70
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2518148582/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true,
+					"rate" : 112
+				},
+				"group_694799078" : 
+				{
+					"alignmentfliph" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2518168944/night0001-4800.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				},
+				"group_694799078" : 
+				{
+					"wec_e" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2531387129/Ocean - 75088.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2568658643/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentfliph" : true,
+					"background" : "0 0.6901960784313725 1",
+					"color2" : "0 0 1",
+					"newproperty" : 0.029999999,
+					"wec_e" : true
+				},
+				"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"background" : "0.08627450980392157 0.4117647058823529 0.8745098039215686",
+					"color2" : "0.00392156862745098 0.08235294117647059 0.8980392156862745",
+					"schemecolor" : "0.08627450980392157 0.4117647058823529 0.8745098039215686"
+				},
+				"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1032#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"background" : "0.13333333333333333 0.4549019607843137 0.9921568627450981",
+					"color2" : "0.16862745098039217 0.07450980392156863 1",
+					"schemecolor" : "0 0 1"
+				},
+				"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"background" : "0.1411764705882353 0.4627450980392157 0.996078431372549",
+					"color2" : "0.19607843137254902 0.12156862745098039 0.996078431372549",
+					"newproperty" : 0.079999998,
+					"rate" : 51
+				},
+				"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"background" : "0.1411764705882353 0.4627450980392157 0.996078431372549",
+					"color2" : "0.19607843137254902 0.12156862745098039 0.996078431372549",
+					"newproperty" : 0.039999999,
+					"parallaxdelay" : 0.0099999998,
+					"rate" : 51
+				},
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true,
+					"audioprocessing" : false,
+					"background" : "0.611764705882353 0.7372549019607844 0.9568627450980393",
+					"color1" : "0.20392156862745098 0.6078431372549019 0.984313725490196",
+					"color2" : "0.21176470588235294 0.27058823529411763 0.30980392156862746",
+					"newproperty" : 0.0099999998,
+					"parallaxdelay" : 0.0099999998
+				},
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true,
+					"alignmentposition" : 17,
+					"background" : "0.3254901960784314 0.5490196078431373 0.9058823529411765",
+					"color2" : "0.16862745098039217 0.21568627450980393 0.9098039215686274",
+					"newproperty" : 0.0099999998,
+					"parallaxdelay" : 0.0099999998
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2569188776/0001-0250.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 41
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2574590107/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2578535318/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 81,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2582757782/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true,
+					"alignmentposition" : 68,
+					"audioprocessing" : false,
+					"fish1" : 1.3,
+					"reflectionstrength" : 0.25999999,
+					"volume" : 0,
+					"wec_con" : 75,
+					"wec_e" : true,
+					"wec_sa" : 47
+				},
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2586970359/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 4,
+					"alignmentfliph" : true,
+					"alignmentposition" : 0,
+					"alignmentz" : 118,
+					"disableclock" : false,
+					"wec_e" : true
+				},
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2587244631/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2593802559/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 4,
+					"alignmentposition" : 89,
+					"alignmentx" : 44,
+					"alignmenty" : 45,
+					"barheight" : 26,
+					"schemecolor" : "1 1 1",
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2593845061/1080P_4000K_218393791.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2596848703/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 4,
+					"alignmentposition" : 0,
+					"alignmentx" : 41,
+					"alignmenty" : 59,
+					"alignmentz" : 116
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2600154404/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2600507699/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 100
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2600927463/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2601830372/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 30
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604513736/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 75
+				},
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 75,
+					"volume" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604686890/project.json" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"lineColor" : "0 0.5607843137254902 1"
+				},
+				"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID1028#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"lineColor" : "0 0.9294117647058824 1",
+					"particleColor" : "0 0.5333333333333333 1"
+				},
+				"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID260#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"lineColor" : "0 0.4 1",
+					"particleColor" : "0.2980392156862745 0.596078431372549 0.9647058823529412"
+				},
+				"//?/DISPLAY#GSM5BD3#7&1b66cdaf&0&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"lineColor" : "0.43137254901960786 0.6705882352941176 0.9725490196078431",
+					"particleColor" : "0.12156862745098039 0.5882352941176471 0.996078431372549"
+				},
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"lineColor" : "0.023529411764705882 0.7568627450980392 0.7568627450980392",
+					"lineWidth" : 0.75,
+					"particleColor" : "1 1 1",
+					"particleMaxVel" : 33,
+					"particleMinVel" : 0.75
+				},
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"lineColor" : "0.6705882352941176 1 0.9803921568627451",
+					"particleColor" : "0 1 1"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2604752698/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"visualizer" : true,
+					"volume" : 62
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2605245806/patito-con-gorra-bailando-la-cancion-de-hey-ya-4k-60fps.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignment" : 4,
+					"alignmentposition" : 40,
+					"alignmentx" : 44,
+					"alignmenty" : 53,
+					"schemecolor" : "1 1 1"
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2623656455/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 44
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2624136412/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignmentposition" : 67,
+					"volume" : 34
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/2973590816/Wall of the Abyss.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/764162681/scene.pkg" : 
+			{
+				"//./DISPLAY1" : 
+				{
+					"alignment" : 4,
+					"alignmentposition" : 100,
+					"alignmentx" : 45,
+					"alignmenty" : 45
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/830029696/梦境群像-Thanatos.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 0
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/833227004/scene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentfliph" : true,
+					"alignmentposition" : 0,
+					"wec_e" : true
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/843532366/gifscene.pkg" : 
+			{
+				"//?/DISPLAY#GSM76FC#5&fc66778&0&UID37122#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 54
+				}
+			},
+			"C:/Program Files (x86)/Steam/steamapps/workshop/content/431960/940996872/XTC Trip.mp4" : 
+			{
+				"//?/DISPLAY#GSM76FC#7&1b66cdaf&0&UID1024#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"alignmentposition" : 22,
+					"volume" : 0
+				}
+			}
+		}
+	}
+}

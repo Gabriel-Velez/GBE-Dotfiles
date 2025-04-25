@@ -168,7 +168,7 @@ This setup uses **two dynamic wallpapers** that switch based on time:
    - Path: `C:/Program Files (x86)/Steam/steamapps/common/wallpaper_engine/config/config.json`
 3. Restart **Wallpaper Engine** to apply.
 
-⚠️ **Warning**: Replacing the config will overwrite your current Wallpaper Engine schedules and preferences.
+> ⚠️ **Warning**: Replacing the config will overwrite your current Wallpaper Engine schedules and preferences.
 
 ---
 

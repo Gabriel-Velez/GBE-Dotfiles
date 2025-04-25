@@ -34,6 +34,8 @@ GBE-DOTFILES/
 
 # Terminal Prompt (Oh My Posh)
 
+<img src="./oh-my-posh/gbe-oh-my-posh-theme.png" alt="Oh My Posh Theme Preview" />
+
 ## Install Oh My Posh
 
 If you **don't have Oh My Posh installed**, download it here: [Oh My Posh](https://ohmyposh.dev/)

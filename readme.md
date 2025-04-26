@@ -92,7 +92,7 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
   
   - Access all of your favorite Programs at a touch
 
-- **Web Browser** - Opens with Google Cheome. Manage tabs and access quick links:
+- **Web Browser** - Opens with Google Chrome. Manage tabs and access quick links:
   
   - New Tab New Window,	Back, Refresh, Incognito Mode, and Close Tab controls.
   

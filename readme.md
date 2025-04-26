@@ -87,7 +87,7 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
 - Coding Tools – Launches automatically with VS Code. Choose a language like HTML, CSS, JavaScript, etc.
 
-- JavaScript has full macros built out for declarations, loops, conditionals, methods, and array functions across two pages.
+  - JavaScript has full macros built out for declarations, loops, conditionals, methods, and array functions across two pages.
 
 - Discord – Opens with Discord. Uses this plugin to handle mute, deafen, and call controls.
 

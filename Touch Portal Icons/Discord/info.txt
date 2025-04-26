@@ -1,0 +1,5 @@
+name=Discord Vanilla Icon Pack
+author=BreezyBat
+link=https://twitch.tv/breezybat
+
+modified to have transparent backgrounds

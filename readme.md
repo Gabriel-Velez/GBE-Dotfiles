@@ -106,6 +106,12 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
   - Touching _Programs_ is a quick shortcut to jump into your games.
 
+- File Explorer: Quick navigation for file management:
+  
+  - Adds functions as buttons like: New Folder, New Window, Rename, Preview pane, and Properties
+  
+  - Shortcuts to PC, Downloads, Documents, and Drives (C:, D:, E:)
+
 ## Notable Pages (with Screenshots):
 
 <table>

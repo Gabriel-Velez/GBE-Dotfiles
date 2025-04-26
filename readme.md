@@ -88,6 +88,10 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
 ## Custom Pages Overview:
 
+- **Programs** - Defult page that opens when there isnt a designated page. 
+  
+  - Access all of your favorite Programs at a touch
+
 - **Web Browser** - Opens with Google Cheome. Manage tabs and access quick links:
   
   - New Tab New Window,	Back, Refresh, Incognito Mode, and Close Tab controls.
@@ -117,6 +121,10 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
   - Adds functions as buttons like: New Folder, New Window, Rename, Preview pane, and Properties
   
   - Shortcuts to PC, Downloads, Documents, and Drives (C:, D:, E:)
+
+- **Main menu** - Surves as a hub connecting all pages together 
+  
+  - Can be accessed on any page by clicking the three vertical dots on the bottom left 
 
 ## Notable Pages (with Screenshots):
 

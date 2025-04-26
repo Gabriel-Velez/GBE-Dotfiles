@@ -21,6 +21,7 @@ GBE-DOTFILES/
 │   ├── Programs/             # App icons (VS Code, Slack, etc.)
 │   ├── Spotify/              # Playback icons
 │   └── Zoom/                 # Meeting controls
+│
 ├── touch-portal/            # Touch Portal pages & screenshots
 │   ├── Adobe Tools/          # Illustrator, Photoshop tools
 │   ├── Coding Tools/         # JavaScript, Language switchers

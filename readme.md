@@ -88,7 +88,13 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
 ## Custom Pages Overview:
 
-- **Coding Tools** – Launches automatically with VS Code. Choose a language like HTML, CSS, JavaScript, etc.
+- **Web Browser** - Opens with Google Cheome. Manage tabs and access quick links:
+  
+  - New Tab New Window,	Back, Refresh, Incognito Mode, and Close Tab controls.
+  
+  - Quick launch shortcuts for YouTube, YouTube Music, Netflix, Reddit, Amazon, and Twitch.
+
+- **Coding Tools** – Opens with VS Code. Choose a language like HTML, CSS, JavaScript, etc.
 
   - **JavaScript** has full macros built out for declarations, loops, conditionals, methods, and array functions across two pages.
 
@@ -106,7 +112,7 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
   - Touching _Programs_ is a quick shortcut to jump into your games.
 
-- **File Explorer** - Quick navigation for file management:
+- **File Explorer** - Opend manually. Quick navigation for file management:
   
   - Adds functions as buttons like: New Folder, New Window, Rename, Preview pane, and Properties
   

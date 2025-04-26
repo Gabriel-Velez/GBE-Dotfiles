@@ -83,6 +83,26 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 - [Discord Plugin](https://github.com/spdermn02/TouchPortal_Discord_Plugin) — Controls mute, deafen, and calls.
 - [Spotify Plugin](https://www.christophecvb.com/touch-portal/plugins/spotify) — Spotify playback controls.
 
+## Custom Pages Overview:
+
+- Coding Tools – Launches automatically with VS Code. Choose a language like HTML, CSS, JavaScript, etc.
+
+- JavaScript has full macros built out for declarations, loops, conditionals, methods, and array functions across two pages.
+
+- Discord – Opens with Discord. Uses this plugin to handle mute, deafen, and call controls.
+
+- Spotify – Opens with Spotify. Uses this plugin to auto-fill album art, song title, artist name, and control everything:
+
+  - Play/pause, skip, rewind, volume, mute/unmute, heart toggle, shuffle, and repeat modes.
+
+- Adobe Tools – Opens with Photoshop or Illustrator. Switch between Photoshop tools, Photoshop actions, and Illustrator tools for quick-access workflows.
+
+- Zoom – Opens with Zoom. Offers meeting controls for mute, camera toggle, chat view, audience view, hang up, and join call.
+
+- Games – Opens with Steam. Displays common game launchers and favorite game shortcuts.
+
+  - Touching Programs is a quick shortcut to jump into your games.
+
 ## Notable Pages (with Screenshots):
 
 <table>
@@ -184,7 +204,7 @@ This setup uses **two dynamic wallpapers** that switch based on time:
 
 This repo includes a full suite of **Touch Portal icons**, grouped into folders by usage (Adobe, Games, Zoom, etc.). Most are custom or adapted for clarity and consistency.
 
-## Attribution:
+# Attribution:
 
 - **Adobe/Arbi Photoshop Tools Pack/** — Icons by **Arbi Barbarona**
 
@@ -203,8 +223,6 @@ This repo includes a full suite of **Touch Portal icons**, grouped into folders 
 - This is a **work in progress** — I constantly refine and evolve the setup.
 - Icons in Touch Portal are for **personal use only**.
 - The Touch Portal **automatic page switching** feature only works on **Windows**.
-
----
 
 # Credits
 

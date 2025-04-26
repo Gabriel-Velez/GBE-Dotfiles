@@ -8,7 +8,7 @@ While this setup is highly personalized, parts of it may be useful to anyone loo
 
 ```
 GBE-DOTFILES/
-├── dotfiles/                # Shell & terminal config
+├── oh-my-posh/                # Shell & terminal config
 │   └── gbe-theme.omp.json    # Oh My Posh theme
 │
 ├── Touch Portal Icons/      # All custom icon sets

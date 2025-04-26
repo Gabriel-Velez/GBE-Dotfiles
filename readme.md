@@ -4,6 +4,8 @@ This is my personal development environment — terminal themes, VS Code setup, 
 
 While this setup is highly personalized, parts of it may be useful to anyone looking to build their own modular, dark-mode-friendly workspace.
 
+It is constsntly being changed and is still a work in progress 
+
 ## Contents
 
 ```

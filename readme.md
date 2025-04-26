@@ -92,9 +92,9 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
   - **JavaScript** has full macros built out for declarations, loops, conditionals, methods, and array functions across two pages.
 
-- **Discord** – Opens with Discord. Uses this plugin to handle mute, deafen, and call controls.
+- **Discord** – Opens with Discord. Uses a plugin to handle mute, deafen, and call controls.
 
-- **Spotify** – Opens with Spotify. Uses this plugin to auto-fill album art, song title, artist name, and control everything:
+- **Spotify** – Opens with Spotify. Uses a plugin to auto-fill album art, song title, artist name, and control everything:
 
   - Play/pause, skip, rewind, volume, mute/unmute, heart toggle, shuffle, and repeat modes.
 

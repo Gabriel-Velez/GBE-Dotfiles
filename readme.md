@@ -9,21 +9,31 @@ While this setup is highly personalized, parts of it may be useful to anyone loo
 ```
 GBE-DOTFILES/
 ├── dotfiles/                # Shell & terminal config
-│   └── gbe-theme.omp.json   # Oh My Posh theme
+│   └── gbe-theme.omp.json    # Oh My Posh theme
 │
-├── touch-portal/           # Touch Portal pages & screenshots
-│   ├── Adobe Tools/         # Illustrator, Photoshop tools
-│   ├── Coding Tools/        # JavaScript, Language switchers
-│   ├── Discord/             # Voice and call controls
-│   ├── File Explorer/       # Folder nav, drive shortcuts
-│   ├── Games/               # Game launchers
-│   ├── Main Menu/           # Navigation hub
-│   ├── Programs/            # Most-used apps
-│   ├── Spotify/             # Music controls
-│   ├── Web Browser/         # Tab management + quick access
-│   ├── Zoom/                # Meeting controls
-│   ├── gbe-all-pages.tpz2   # Full backup of all pages
-│   └── gbe-clock.tpz2       # Standalone clock plugin page
+├── Touch Portal Icons/      # All custom icon sets
+│   ├── Adobe/                # Adobe apps & tools (includes 3rd-party Arbi set)
+│   ├── Discord/              # Voice control icons
+│   ├── File Explorer/        # Navigation + drive icons
+│   ├── Games/                # Launcher & game icons
+│   ├── Icons/                # Arrows, locks, misc UI
+│   ├── Internet/             # Browser functions & shortcuts
+│   ├── Programs/             # App icons (VS Code, Slack, etc.)
+│   ├── Spotify/              # Playback icons
+│   └── Zoom/                 # Meeting controls
+├── touch-portal/            # Touch Portal pages & screenshots
+│   ├── Adobe Tools/          # Illustrator, Photoshop tools
+│   ├── Coding Tools/         # JavaScript, Language switchers
+│   ├── Discord/              # Voice and call controls
+│   ├── File Explorer/        # Folder nav, drive shortcuts
+│   ├── Games/                # Game launchers
+│   ├── Main Menu/            # Navigation hub
+│   ├── Programs/             # Most-used apps
+│   ├── Spotify/              # Music controls
+│   ├── Web Browser/          # Tab management + quick access
+│   ├── Zoom/                 # Meeting controls
+│   ├── gbe-all-pages.tpz2    # Full backup of all pages
+│   └── gbe-clock.tpz2        # Standalone clock plugin page
 │
 ├── vscode/                 # Editor setup
 │   ├── settings.json        # Font, theme, layout, etc.
@@ -170,9 +180,25 @@ This setup uses **two dynamic wallpapers** that switch based on time:
 
 > ⚠️ **Warning**: Replacing the config will overwrite your current Wallpaper Engine schedules and preferences.
 
----
+# Touch Portal Icons
 
-## Notes
+This repo includes a full suite of **Touch Portal icons**, grouped into folders by usage (Adobe, Games, Zoom, etc.). Most are custom or adapted for clarity and consistency.
+
+## Attribution:
+
+- **Adobe/Arbi Photoshop Tools Pack/** — Icons by **Arbi Barbarona**
+
+  - Facebook: [arbibarbarona](https://www.facebook.com/arbibarbarona)
+  - Original `info.txt` included in the folder.
+
+- **Discord/Discord Vanilla Icon Pack/** — Icons by **BreezyBat**
+  - Twitch: [breezybat](https://twitch.tv/breezybat)
+  - Original `info.txt` included in the folder.
+  - _Modified by me to remove backgrounds for transparency._
+
+> ⚠️ Most icons are intended for **personal use only**. Avoid redistributing without checking original sources.
+
+# Notes
 
 - This is a **work in progress** — I constantly refine and evolve the setup.
 - Icons in Touch Portal are for **personal use only**.
@@ -180,6 +206,6 @@ This setup uses **two dynamic wallpapers** that switch based on time:
 
 ---
 
-## Credits
+# Credits
 
 Crafted by **Gabe** — a workspace built for speed, comfort, and dark mode aesthetics. Remix, borrow, or take inspiration freely. If you use it, I'd love to see how you make it your own!

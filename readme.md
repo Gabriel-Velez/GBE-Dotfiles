@@ -143,10 +143,15 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 
 ## Navigation & Lock Logic:
 
-- Arrows (`<`, `>`) move between multi-page sections.
+- **Automatic page switching** takes you to the correct page when its corresponding window is active.
+
+  - Only works on **Windows**.
+
 - Tap the page title to return to the **Defult Page**.
+
 - Lock 🔒 / Unlock 🔓 buttons toggle whether the tablet stays on a page.
-- **Automatic page switching** only works on **Windows**.
+
+- Arrows (`<`, `>`) move between multi-page sections.
 
 ## Required Plugins:
 

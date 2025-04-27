@@ -147,7 +147,7 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 
   - Only works on **Windows**.
 
-- Tap the page title to return to the **Defult Page**.
+- Tap the page title to return to the **Default Page**.
 
 - Lock 🔒 / Unlock 🔓 buttons toggle whether the tablet stays on a page.
 
@@ -240,6 +240,8 @@ Copy `vscode/settings.json` to:
 # Wallpaper Engine Setup
 
 This setup uses **two dynamic wallpapers** that switch based on time:
+
+This allows my wallpapers to sync with my day/night workflow, adding a subtle but effective mood shift.
 
 ## Wallpapers
 

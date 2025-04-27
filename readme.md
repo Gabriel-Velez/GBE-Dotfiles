@@ -11,29 +11,30 @@ GBE-DOTFILES/
 ├── dotfiles/                # Shell & terminal config
 │   └── gbe-theme.omp.json    # Oh My Posh theme
 │
-├── Touch Portal Icons/      # All custom icon sets
-│   ├── Adobe/                # Adobe apps & tools (includes 3rd-party Arbi set)
-│   ├── Discord/              # Voice control icons
-│   ├── File Explorer/        # Navigation + drive icons
-│   ├── Games/                # Launcher & game icons
-│   ├── Icons/                # Arrows, locks, misc UI
-│   ├── Internet/             # Browser functions & shortcuts
-│   ├── Programs/             # App icons (VS Code, Slack, etc.)
-│   ├── Spotify/              # Playback icons
-│   └── Zoom/                 # Meeting controls
-├── touch-portal/            # Touch Portal pages & screenshots
-│   ├── Adobe Tools/          # Illustrator, Photoshop tools
-│   ├── Coding Tools/         # JavaScript, Language switchers
-│   ├── Discord/              # Voice and call controls
-│   ├── File Explorer/        # Folder nav, drive shortcuts
-│   ├── Games/                # Game launchers
-│   ├── Main Menu/            # Navigation hub
-│   ├── Programs/             # Most-used apps
-│   ├── Spotify/              # Music controls
-│   ├── Web Browser/          # Tab management + quick access
-│   ├── Zoom/                 # Meeting controls
-│   ├── gbe-all-pages.tpz2    # Full backup of all pages
-│   └── gbe-clock.tpz2        # Standalone clock plugin page
+├─ touch-portal/             #Touch portal files
+│   ├── touch-portal-pages/     #Touch portal pages
+│   │   ├── Adobe Tools/          # Illustrator, Photoshop tools
+│   │   ├── Coding Tools/         # JavaScript, Language switchers
+│   │   ├── Discord/              # Voice and call controls
+│   │   ├── File Explorer/        # Folder nav, drive shortcuts
+│   │   ├── Games/                # Game launchers
+│   │   ├── Main Menu/            # Navigation hub
+│   │   ├── Programs/             # Most-used apps
+│   │   ├── Spotify/              # Music controls
+│   │   ├── Web Browser/          # Tab management + quick access
+│   │   ├── Zoom/                 # Meeting controls
+│   │   ├── gbe-all-pages.tpz2    # Full backup of all pages
+│   │   └── gbe-clock.tpz2        # Standalone clock plugin page
+│   └── touch-portal-icons/     #PNG imgs used for the buttons
+│       ├── Adobe/                # Adobe apps & tools (includes 3rd-party Arbi set)
+│       ├── Discord/              # Voice control icons
+│       ├── File Explorer/        # Navigation + drive icons
+│       ├── Games/                # Launcher & game icons
+│       ├── Icons/                # Arrows, locks, misc UI
+│       ├── Internet/             # Browser functions & shortcuts
+│       ├── Programs/             # App icons (VS Code, Slack, etc.)
+│       ├── Spotify/              # Playback icons
+│       └── Zoom/                 # Meeting controls
 │
 ├── vscode/                 # Editor setup
 │   ├── settings.json        # Font, theme, layout, etc.

@@ -1,4 +1,4 @@
-# GBE Dotfiles
+# 📁 GBE Dotfiles
 
 This is my personal development environment — terminal themes, VS Code setup, Touch Portal macros, and more.
 
@@ -8,28 +8,28 @@ It is constantly being changed and is still a work in progress
 
 ## Table of Contents
 
-- [Terminal Prompt (Oh My Posh)](#terminal-prompt-oh-my-posh)
+- [>\_ Terminal Prompt (Oh My Posh)](#terminal-prompt-oh-my-posh)
   - [Installing my theme](#installing-my-theme)
   - [Structure](#structure)
   - [Git Branch and Status Color Legend](#git-branch-and-status-color-legend)
-- [Touch Portal Setup](#touch-portal-setup)
+- [📱 Touch Portal Setup](#touch-portal-setup)
   - [Custom Pages Overview](#custom-pages-overview)
   - [Navigation & Lock Logic](#navigation--lock-logic)
   - [Required Plugins](#required-plugins)
   - [Screenshots](#screenshots)
-- [Touch Portal Icons](#touch-portal-icons)
+- [🖼️ Touch Portal Icons](#touch-portal-icons)
   - [Attribution](#attribution)
-- [VS Code Setup](#vs-code-setup)
+- [🧑‍💻 VS Code Setup](#vs-code-setup)
   - [Font](#font)
   - [Install Extensions](#install-extensions)
   - [Apply Settings](#apply-settings)
-- [Wallpaper Engine Setup](#wallpaper-engine-setup)
+- [🖥️ Wallpaper Engine Setup](#wallpaper-engine-setup)
   - [Wallpapers](#wallpapers)
   - [Schedule](#schedule)
   - [Color Settings](#color-settings)
   - [Applying the Setup](#applying-the-setup)
-- [Notes](#notes)
-- [Credits](#credits)
+- [📝 Notes](#notes)
+- [❤️ Credits](#credits)
 
 ## Contents
 
@@ -70,7 +70,7 @@ GBE-DOTFILES/
 └── README.md               # You're here!
 ```
 
-# Terminal Prompt (Oh My Posh)
+# >\_ Terminal Prompt (Oh My Posh)
 
 Oh My Posh is a prompt theme engine for any shell, designed to make your terminal more informative and visually appealing.
 
@@ -114,7 +114,7 @@ Segment Breakdown:
 | **Purple**    | Ahead                                 | You have **local commits** to push.                            |
 | **Dark Blue** | Behind                                | Remote has **commits to pull**.                                |
 
-# Touch Portal Setup
+# 📱 Touch Portal Setup
 
 Touch Portal is a macro control app that turns any phone or tablet into a customizable control deck for your PC.
 
@@ -217,7 +217,7 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 
 > **Note:** Some icons may appear distorted in the **Touch Portal Windows app**, but display correctly on **Android** and **iOS** devices.
 
-# Touch Portal Icons
+# 🖼️ Touch Portal Icons
 
 This repo includes a full suite of **Touch Portal icons**, grouped into folders by usage (Adobe, Games, Zoom, etc.). Most are custom or adapted for clarity and consistency.
 
@@ -235,7 +235,7 @@ This repo includes a full suite of **Touch Portal icons**, grouped into folders 
 
 > ⚠️ Most icons are intended for **personal use only**. Avoid redistributing without checking original sources.
 
-# VS Code Setup
+# 🧑‍💻 VS Code Setup
 
 This section covers my VS Code setup—focused on a minimalist, distraction-free coding environment.
 It includes my theme, font choice, and extension list to keep everything clean, functional, and tailored for web development and scripting.
@@ -258,7 +258,7 @@ Copy `vscode/settings.json` to:
 - **Windows**: `%APPDATA%\Code\User\settings.json`
 - **Mac/Linux**: `~/.config/Code/User/settings.json`
 
-# Wallpaper Engine Setup
+# 🖥️ Wallpaper Engine Setup
 
 This setup uses **two dynamic wallpapers** that switch based on time:
 
@@ -278,7 +278,7 @@ This syncs my wallpapers with my day/night workflow, creating a subtle but effec
 - **9:30 PM**: Switches to **Black** (Dark Theme)
 - **7:00 AM**: Switches back to **Swirl** (Light Theme)
 
-# Color Settings
+## Color Settings
 
 ### Swirl (Light Theme):
 
@@ -302,12 +302,14 @@ This syncs my wallpapers with my day/night workflow, creating a subtle but effec
 
 > ⚠️ **Warning**: Replacing the config will overwrite your current Wallpaper Engine schedules and preferences.
 
-# Notes
+# 📝 Notes
 
 - This is a **work in progress** — I constantly refine and evolve the setup.
 - Icons in Touch Portal are for **personal use only**.
 - The Touch Portal **automatic page switching** feature only works on **Windows**.
 
-# Credits
+# ❤️ Credits
 
 Crafted by **Gabe** — a workspace built for speed, comfort, and dark mode aesthetics. Remix, borrow, or take inspiration freely. If you use it, I'd love to see how you make it your own!
+
+Thank you to **Arbi Barbarona** and **BreezyBat** for your wonderful icons

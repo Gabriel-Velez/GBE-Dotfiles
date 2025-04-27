@@ -4,11 +4,13 @@ This is my personal development environment — terminal themes, VS Code setup, 
 
 While this setup is highly personalized, parts of it may be useful to anyone looking to build their own modular, dark-mode-friendly workspace.
 
+It is constsntly being changed and is still a work in progress
+
 ## Contents
 
 ```
 GBE-DOTFILES/
-├── dotfiles/                # Shell & terminal config
+├── oh-my-posh/              # Shell & terminal config
 │   └── gbe-theme.omp.json    # Oh My Posh theme
 │
 ├─ touch-portal/             #Touch portal files
@@ -86,13 +88,23 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
 ## Custom Pages Overview:
 
-- **Coding Tools** – Launches automatically with VS Code. Choose a language like HTML, CSS, JavaScript, etc.
+- **Programs** - Defult page that opens when there isnt a designated page.
+
+  - Access all of your favorite Programs at a touch
+
+- **Web Browser** - Opens with Google Chrome. Manage tabs and access quick links:
+
+  - New Tab New Window, Back, Refresh, Incognito Mode, and Close Tab controls.
+
+  - Quick launch shortcuts for YouTube, YouTube Music, Netflix, Reddit, Amazon, and Twitch.
+
+- **Coding Tools** – Opens with VS Code. Choose a language like HTML, CSS, JavaScript, etc.
 
   - **JavaScript** has full macros built out for declarations, loops, conditionals, methods, and array functions across two pages.
 
-- **Discord** – Opens with Discord. Uses this plugin to handle mute, deafen, and call controls.
+- **Discord** – Opens with Discord. Uses a plugin to handle mute, deafen, and call controls.
 
-- **Spotify** – Opens with Spotify. Uses this plugin to auto-fill album art, song title, artist name, and control everything:
+- **Spotify** – Opens with Spotify. Uses a plugin to auto-fill album art, song title, artist name, and control everything:
 
   - Play/pause, skip, rewind, volume, mute/unmute, heart toggle, shuffle, and repeat modes.
 
@@ -103,6 +115,16 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 - **Games** – Opens with Steam. Displays common game launchers and favorite game shortcuts.
 
   - Touching _Programs_ is a quick shortcut to jump into your games.
+
+- **File Explorer** - Opend manually. Quick navigation for file management:
+
+  - Adds functions as buttons like: New Folder, New Window, Rename, Preview pane, and Properties
+
+  - Shortcuts to PC, Downloads, Documents, and Drives (C:, D:, E:)
+
+- **Main menu** - Surves as a hub connecting all pages together
+
+  - Can be accessed on any page by clicking the three vertical dots on the bottom left
 
 ## Notable Pages (with Screenshots):
 

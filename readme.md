@@ -4,7 +4,29 @@ This is my personal development environment — terminal themes, VS Code setup, 
 
 While this setup is highly personalized, parts of it may be useful to anyone looking to build their own modular, dark-mode-friendly workspace.
 
-It is constsntly being changed and is still a work in progress
+It is constantly being changed and is still a work in progress
+
+## Table of Contents
+
+- [Terminal Prompt (Oh My Posh)](#terminal-prompt-oh-my-posh)
+- [Touch Portal Setup](#touch-portal-setup)
+  - [Navigation & Lock Logic](#navigation--lock-logic)
+  - [Required Plugins](#required-plugins)
+  - [Custom Pages Overview](#custom-pages-overview)
+  - [Notable Pages (with Screenshots)](#notable-pages-with-screenshots)
+- [VS Code Setup](#vs-code-setup)
+  - [Font](#font)
+  - [Install Extensions](#install-extensions)
+  - [Apply Settings](#apply-settings)
+- [Wallpaper Engine Setup](#wallpaper-engine-setup)
+  - [Wallpapers](#wallpapers)
+  - [Schedule](#schedule)
+  - [Color Settings](#color-settings)
+  - [Applying the Setup](#applying-the-setup)
+- [Touch Portal Icons](#touch-portal-icons)
+  - [Attribution](#attribution)
+- [Notes](#notes)
+- [Credits](#credits)
 
 ## Contents
 
@@ -13,8 +35,8 @@ GBE-DOTFILES/
 ├── oh-my-posh/              # Shell & terminal config
 │   └── gbe-theme.omp.json    # Oh My Posh theme
 │
-├─ touch-portal/             #Touch portal files
-│   ├── touch-portal-pages/     #Touch portal pages
+├─ touch-portal/             # Touch portal files
+│   ├── touch-portal-pages/     # Touch portal pages
 │   │   ├── Adobe Tools/          # Illustrator, Photoshop tools
 │   │   ├── Coding Tools/         # JavaScript, Language switchers
 │   │   ├── Discord/              # Voice and call controls
@@ -27,7 +49,7 @@ GBE-DOTFILES/
 │   │   ├── Zoom/                 # Meeting controls
 │   │   ├── gbe-all-pages.tpz2    # Full backup of all pages
 │   │   └── gbe-clock.tpz2        # Standalone clock plugin page
-│   └── touch-portal-icons/     #PNG imgs used for the buttons
+│   └── touch-portal-icons/     # PNG imgs used for the buttons
 │       ├── Adobe/                # Adobe apps & tools (includes 3rd-party Arbi set)
 │       ├── Discord/              # Voice control icons
 │       ├── File Explorer/        # Navigation + drive icons
@@ -88,7 +110,7 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
 ## Custom Pages Overview:
 
-- **Programs** - Defult page that opens when there isnt a designated page.
+- **Programs** - Default page that opens when there isn't a designated page.
 
   - Access all of your favorite Programs at a touch
 
@@ -114,15 +136,15 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
 - **Games** – Opens with Steam. Displays common game launchers and favorite game shortcuts.
 
-  - Touching _Programs_ is a quick shortcut to jump into your games.
+  - Access your games quickly by selecting _Programs_ from the main page.
 
-- **File Explorer** - Opend manually. Quick navigation for file management:
+- **File Explorer** - Opened manually. Quick navigation for file management:
 
   - Adds functions as buttons like: New Folder, New Window, Rename, Preview pane, and Properties
 
   - Shortcuts to PC, Downloads, Documents, and Drives (C:, D:, E:)
 
-- **Main menu** - Surves as a hub connecting all pages together
+- **Main menu** - Serves as a hub connecting all pages together
 
   - Can be accessed on any page by clicking the three vertical dots on the bottom left
 
@@ -227,7 +249,7 @@ This setup uses **two dynamic wallpapers** that switch based on time:
 
 This repo includes a full suite of **Touch Portal icons**, grouped into folders by usage (Adobe, Games, Zoom, etc.). Most are custom or adapted for clarity and consistency.
 
-# Attribution:
+## Attribution:
 
 - **Adobe/Arbi Photoshop Tools Pack/** — Icons by **Arbi Barbarona**
 

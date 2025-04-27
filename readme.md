@@ -10,10 +10,10 @@ It is constantly being changed and is still a work in progress
 
 - [Terminal Prompt (Oh My Posh)](#terminal-prompt-oh-my-posh)
 - [Touch Portal Setup](#touch-portal-setup)
+  - [Custom Pages Overview](#custom-pages-overview)
   - [Navigation & Lock Logic](#navigation--lock-logic)
   - [Required Plugins](#required-plugins)
-  - [Custom Pages Overview](#custom-pages-overview)
-  - [Notable Pages (with Screenshots)](#notable-pages-with-screenshots)
+  - [Screenshots](#screenshots)
 - [Touch Portal Icons](#touch-portal-icons)
   - [Attribution](#attribution)
 - [VS Code Setup](#vs-code-setup)
@@ -95,18 +95,11 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
 # Touch Portal Setup
 
-## Navigation & Lock Logic:
+Touch Portal is a macro control app that turns any phone or tablet into a customizable control deck for your PC.
 
-- Arrows (`<`, `>`) move between multi-page sections.
-- Tap the page title to return to the **Main Menu**, unless the page is locked.
-- Lock 🔒 / Unlock 🔓 buttons toggle whether the tablet stays on a page.
-- **Automatic page switching** only works on **Windows**.
+Download it here: [Touch Portal](https://www.touch-portal.com/)
 
-## Required Plugins:
-
-- [Timezones Plugin (Clock)](https://www.christophecvb.com/touch-portal/plugins/timezones) — Displays live time and date on all pages.
-- [Discord Plugin](https://github.com/spdermn02/TouchPortal_Discord_Plugin) — Controls mute, deafen, and calls.
-- [Spotify Plugin](https://www.christophecvb.com/touch-portal/plugins/spotify) — Spotify playback controls.
+My setup focuses on workflow automation for common, repetitive tasks while providing a visual shortcut system to streamline daily workflow.
 
 ## Custom Pages Overview:
 
@@ -148,6 +141,19 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
   - Can be accessed on any page by clicking the three vertical dots on the bottom left
 
+## Navigation & Lock Logic:
+
+- Arrows (`<`, `>`) move between multi-page sections.
+- Tap the page title to return to the **Main Menu**, unless the page is locked.
+- Lock 🔒 / Unlock 🔓 buttons toggle whether the tablet stays on a page.
+- **Automatic page switching** only works on **Windows**.
+
+## Required Plugins:
+
+- [Timezones Plugin (Clock)](https://www.christophecvb.com/touch-portal/plugins/timezones) — Displays live time and date on all pages.
+- [Discord Plugin](https://github.com/spdermn02/TouchPortal_Discord_Plugin) — Controls mute, deafen, and calls.
+- [Spotify Plugin](https://www.christophecvb.com/touch-portal/plugins/spotify) — Spotify playback controls.
+
 ## Screenshots:
 
 <table>
@@ -183,6 +189,8 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
   </tr>
 </table>
 
+> **Note:** Some icons may appear distorted in the **Touch Portal Windows app**, but display correctly on **Android** and **iOS** devices.
+
 # Touch Portal Icons
 
 This repo includes a full suite of **Touch Portal icons**, grouped into folders by usage (Adobe, Games, Zoom, etc.). Most are custom or adapted for clarity and consistency.
@@ -202,6 +210,9 @@ This repo includes a full suite of **Touch Portal icons**, grouped into folders 
 > ⚠️ Most icons are intended for **personal use only**. Avoid redistributing without checking original sources.
 
 # VS Code Setup
+
+This section covers my VS Code setup—focused on a minimalist, distraction-free coding environment.
+It includes my theme, font choice, and extension list to keep everything clean, functional, and tailored for web development and scripting.
 
 ## Font
 

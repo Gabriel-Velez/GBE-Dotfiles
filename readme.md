@@ -148,7 +148,7 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 
   - Can be accessed on any page by clicking the three vertical dots on the bottom left
 
-## Notable Pages (with Screenshots):
+## Screenshots:
 
 <table>
   <tr>

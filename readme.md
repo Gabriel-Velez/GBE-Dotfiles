@@ -144,7 +144,7 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 ## Navigation & Lock Logic:
 
 - Arrows (`<`, `>`) move between multi-page sections.
-- Tap the page title to return to the **Main Menu**, unless the page is locked.
+- Tap the page title to return to the **Main Menu**.
 - Lock 🔒 / Unlock 🔓 buttons toggle whether the tablet stays on a page.
 - **Automatic page switching** only works on **Windows**.
 

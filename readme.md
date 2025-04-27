@@ -9,6 +9,9 @@ It is constantly being changed and is still a work in progress
 ## Table of Contents
 
 - [Terminal Prompt (Oh My Posh)](#terminal-prompt-oh-my-posh)
+  - [Installing my theme](#installing-my-theme)
+  - [Structure](#structure)
+  - [Git Branch and Status Color Legend](#git-branch-and-status-color-legend)
 - [Touch Portal Setup](#touch-portal-setup)
   - [Custom Pages Overview](#custom-pages-overview)
   - [Navigation & Lock Logic](#navigation--lock-logic)
@@ -69,29 +72,47 @@ GBE-DOTFILES/
 
 # Terminal Prompt (Oh My Posh)
 
-<img src="./oh-my-posh/gbe-oh-my-posh-theme.png" alt="Oh My Posh Theme Preview" />
+Oh My Posh is a prompt theme engine for any shell, designed to make your terminal more informative and visually appealing.
 
-## Install Oh My Posh
+Download it here: [Oh My Posh](https://ohmyposh.dev/)
 
-If you **don't have Oh My Posh installed**, download it here: [Oh My Posh](https://ohmyposh.dev/)
-
-1. Follow the installation guide for your system (**Windows, macOS, Linux**).
-2. Verify the installation:
-
-```bash
-oh-my-posh --version
-```
+My theme focuses on dark mode compatibility with vibrant segments that highlight key info like the current directory, Git status, and time.
 
 ## Installing my theme
 
-- Theme: `gbe-theme.omp.json`
-- Built for dark mode with vibrant segments (hostname, directory, time, git status, etc.)
+Download and find `gbe-theme.omp.json` in the `oh-my-posh` folder
 
 To apply:
 
 ```bash
 oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
 ```
+
+## Structure
+
+<img src="./oh-my-posh/gbe-oh-my-posh-theme.png" alt="Oh My Posh Theme Preview" />
+
+Segment Breakdown:
+
+1. Time of command
+
+2. Username & Hostname
+
+3. Current directory
+
+4. Git branch & status (if in a repo)
+
+5. Execution time (for the last command)
+
+## Git Branch and Status Color Legend
+
+| **Color**     | **Trigger**                           | **Meaning**                                                    |
+| ------------- | ------------------------------------- | -------------------------------------------------------------- |
+| **Green**     | No changes / clean repo               | Everything is **up-to-date** and clean.                        |
+| **Orange**    | Uncommitted changes (working/staging) | You’ve got **local changes** not staged or committed.          |
+| **Red**       | Ahead _and_ behind                    | You’re **out of sync**—both local and remote have new commits. |
+| **Purple**    | Ahead                                 | You have **local commits** to push.                            |
+| **Dark Blue** | Behind                                | Remote has **commits to pull**.                                |
 
 # Touch Portal Setup
 
@@ -241,7 +262,7 @@ Copy `vscode/settings.json` to:
 
 This setup uses **two dynamic wallpapers** that switch based on time:
 
-This allows my wallpapers to sync with my day/night workflow, adding a subtle but effective mood shift.
+This syncs my wallpapers with my day/night workflow, creating a subtle but effective mood shift.
 
 ## Wallpapers
 

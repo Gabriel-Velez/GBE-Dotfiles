@@ -6,31 +6,6 @@ While this setup is highly personalized, parts of it may be useful to anyone loo
 
 It is constantly being changed and is still a work in progress
 
-## Table of Contents
-
-- [>\_ Terminal Prompt (Oh My Posh)](#terminal-prompt-oh-my-posh)
-  - [Installing my theme](#installing-my-theme)
-  - [Structure](#structure)
-  - [Git Branch and Status Color Legend](#git-branch-and-status-color-legend)
-- [📱 Touch Portal Setup](#touch-portal-setup)
-  - [Custom Pages Overview](#custom-pages-overview)
-  - [Navigation & Lock Logic](#navigation--lock-logic)
-  - [Required Plugins](#required-plugins)
-  - [Screenshots](#screenshots)
-- [🖼️ Touch Portal Icons](#touch-portal-icons)
-  - [Attribution](#attribution)
-- [🧑‍💻 VS Code Setup](#vs-code-setup)
-  - [Font](#font)
-  - [Install Extensions](#install-extensions)
-  - [Apply Settings](#apply-settings)
-- [🖥️ Wallpaper Engine Setup](#wallpaper-engine-setup)
-  - [Wallpapers](#wallpapers)
-  - [Schedule](#schedule)
-  - [Color Settings](#color-settings)
-  - [Applying the Setup](#applying-the-setup)
-- [📝 Notes](#notes)
-- [❤️ Credits](#credits)
-
 ## Contents
 
 ```

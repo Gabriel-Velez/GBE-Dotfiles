@@ -185,31 +185,31 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 <table>
   <tr>
     <td align="center">
-      <img src="./touch-portal/Programs/GBE-TouchPortal-Programs.png" alt="Programs" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Programs/GBE-TouchPortal-Programs.png" alt="Programs" /><br/>
       <strong>Programs</strong>
     </td>
     <td align="center">
-      <img src="./touch-portal/Web Browser/GBE-TouchPortal-Web-Browser.png" alt="Web Browser" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Web Browser/GBE-TouchPortal-Web-Browser.png" alt="Web Browser" /><br/>
       <strong>Web Browser</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./touch-portal/Discord/GBE-TouchPortal-Discord.png" alt="Discord" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Discord/GBE-TouchPortal-Discord.png" alt="Discord" /><br/>
       <strong>Discord</strong>
     </td>
     <td align="center">
-      <img src="./touch-portal/File Explorer/GBE-TouchPortal-File-Explorer.png" alt="File Explorer" /><br/>
+      <img src="./touch-portal/touch-portal-pages/File Explorer/GBE-TouchPortal-File-Explorer.png" alt="File Explorer" /><br/>
       <strong>File Explorer</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./touch-portal/Games/GBE-TouchPortal-Games.png" alt="Games" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Games/GBE-TouchPortal-Games.png" alt="Games" /><br/>
       <strong>Games</strong>
     </td>
     <td align="center">
-      <img src="./touch-portal/Main Menu/GBE-TouchPortal-Main-Menu.png" alt="Main Menu" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Main Menu/GBE-TouchPortal-Main-Menu.png" alt="Main Menu" /><br/>
       <strong>Main Menu</strong>
     </td>
   </tr>

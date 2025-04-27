@@ -14,6 +14,8 @@ It is constantly being changed and is still a work in progress
   - [Required Plugins](#required-plugins)
   - [Custom Pages Overview](#custom-pages-overview)
   - [Notable Pages (with Screenshots)](#notable-pages-with-screenshots)
+- [Touch Portal Icons](#touch-portal-icons)
+  - [Attribution](#attribution)
 - [VS Code Setup](#vs-code-setup)
   - [Font](#font)
   - [Install Extensions](#install-extensions)
@@ -23,8 +25,6 @@ It is constantly being changed and is still a work in progress
   - [Schedule](#schedule)
   - [Color Settings](#color-settings)
   - [Applying the Setup](#applying-the-setup)
-- [Touch Portal Icons](#touch-portal-icons)
-  - [Attribution](#attribution)
 - [Notes](#notes)
 - [Credits](#credits)
 
@@ -183,6 +183,24 @@ oh-my-posh init bash --config ~/path/to/gbe-theme.omp.json | source
   </tr>
 </table>
 
+# Touch Portal Icons
+
+This repo includes a full suite of **Touch Portal icons**, grouped into folders by usage (Adobe, Games, Zoom, etc.). Most are custom or adapted for clarity and consistency.
+
+## Attribution:
+
+- **Adobe/Arbi Photoshop Tools Pack/** — Icons by **Arbi Barbarona**
+
+  - Facebook: [arbibarbarona](https://www.facebook.com/arbibarbarona)
+  - Original `info.txt` included in the folder.
+
+- **Discord/Discord Vanilla Icon Pack/** — Icons by **BreezyBat**
+  - Twitch: [breezybat](https://twitch.tv/breezybat)
+  - Original `info.txt` included in the folder.
+  - _Modified by me to remove backgrounds for transparency._
+
+> ⚠️ Most icons are intended for **personal use only**. Avoid redistributing without checking original sources.
+
 # VS Code Setup
 
 ## Font
@@ -244,24 +262,6 @@ This setup uses **two dynamic wallpapers** that switch based on time:
 3. Restart **Wallpaper Engine** to apply.
 
 > ⚠️ **Warning**: Replacing the config will overwrite your current Wallpaper Engine schedules and preferences.
-
-# Touch Portal Icons
-
-This repo includes a full suite of **Touch Portal icons**, grouped into folders by usage (Adobe, Games, Zoom, etc.). Most are custom or adapted for clarity and consistency.
-
-## Attribution:
-
-- **Adobe/Arbi Photoshop Tools Pack/** — Icons by **Arbi Barbarona**
-
-  - Facebook: [arbibarbarona](https://www.facebook.com/arbibarbarona)
-  - Original `info.txt` included in the folder.
-
-- **Discord/Discord Vanilla Icon Pack/** — Icons by **BreezyBat**
-  - Twitch: [breezybat](https://twitch.tv/breezybat)
-  - Original `info.txt` included in the folder.
-  - _Modified by me to remove backgrounds for transparency._
-
-> ⚠️ Most icons are intended for **personal use only**. Avoid redistributing without checking original sources.
 
 # Notes
 

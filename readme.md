@@ -125,7 +125,7 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 
 - **Games** – Opens with Steam. Displays common game launchers and favorite game shortcuts.
 
-  - Access your games quickly by selecting _Programs_ from the main page.
+  - Access your games quickly by touching the tiltle in the _Programs_ page.
 
 - **File Explorer** - Opened manually. Quick navigation for file management:
 

@@ -85,9 +85,9 @@ Segment Breakdown:
 | ------------- | ------------------------------------- | -------------------------------------------------------------- |
 | **Green**     | No changes / clean repo               | Everything is **up-to-date** and clean.                        |
 | **Orange**    | Uncommitted changes (working/staging) | You’ve got **local changes** not staged or committed.          |
-| **Red**       | Ahead _and_ behind                    | You’re **out of sync**—both local and remote have new commits. |
 | **Purple**    | Ahead                                 | You have **local commits** to push.                            |
 | **Dark Blue** | Behind                                | Remote has **commits to pull**.                                |
+| **Red**       | Ahead _and_ behind                    | You’re **out of sync**—both local and remote have new commits. |
 
 # 📱 Touch Portal Setup
 

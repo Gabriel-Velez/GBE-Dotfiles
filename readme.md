@@ -28,8 +28,8 @@ GBE-DOTFILES/
 │   │   ├── gbe-all-pages.tpz2    # Full backup of all pages
 │   │   └── gbe-clock.tpz2        # Standalone clock plugin page
 │   └── touch-portal-icons/     # PNG imgs used for the buttons
-│       ├── Adobe/                # Adobe apps & tools (includes 3rd-party Arbi set)
-│       ├── Discord/              # Voice control icons (includes modified 3rd-party BreezyBat set)
+│       ├── Adobe/                # Adobe apps & tools
+│       ├── Discord/              # Voice control icons
 │       ├── File Explorer/        # Navigation + drive icons
 │       ├── Games/                # Launcher & game icons
 │       ├── Icons/                # Arrows, locks, misc UI

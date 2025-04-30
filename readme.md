@@ -552,8 +552,8 @@ Web Controls
         <span style="opacity: 0.6;"> Transparent </span></span>
       </td>
       <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Zoom/Zoom Chat.png" width="75px"/><br/>
-        <span style="color:white; padding: 5px; border-radius: 5px;">Zoom Chat 
+        <img src="./touch-portal/touch-portal-icons/Zoom/Zoom Participants.png" width="75px"/><br/>
+        <span style="color:white; padding: 5px; border-radius: 5px;">Zoom Participants
         <span style="opacity: 0.6;"> Transparent </span></span>
       </td>
     </tr>

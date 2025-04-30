@@ -196,6 +196,16 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 
 This repo includes a full suite of **Touch Portal icons**, grouped into folders by usage (Adobe, Games, Zoom, etc.). Most are custom or adapted for clarity and consistency.
 
+## Icon Preview & Color Guide
+
+Want to see all the icons in one place?
+
+Check out the Icon Preview & Color Guide for a full visual reference of all included icons, categorized by usage:
+
+View it here: [Icon Preview & Color Guide](./touch-portal/touch-portal-icons/Icon%20Preview%20&%20Color%20Guide.md)
+
+It includes recommended background colors, transparency indicators, and grouping by theme for easy styling.
+
 ## Attribution:
 
 - **Adobe/Arbi Photoshop Tools Pack/** — Icons by **Arbi Barbarona**

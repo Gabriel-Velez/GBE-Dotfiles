@@ -450,7 +450,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
         <span style="background-color:#DA6F01; color:black; padding: 5px; border-radius: 5px;">Satisfactory #DA6F01</span>
       </td>
       <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Games/Supervive.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Games/SuperVive.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="background-color:#D11CF4; color:white; padding: 5px; border-radius: 5px;">Supervive #D11CF4</span>
       </td>
     </tr>
@@ -648,8 +648,6 @@ Use this guide to stay visually organized or tweak it to match your personal the
       </td>
     </tr>
   </table>
-    </tr>
-  </table>
 </details>
 
 <details>
@@ -667,12 +665,12 @@ Use this guide to stay visually organized or tweak it to match your personal the
         <span style="opacity: 0.6;"> Transparent </span> </span>
     </td>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Spotify/Pause.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Spotify/pause.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="color:white; padding: 5px; border-radius: 5px; ">Pause
         <span style="opacity: 0.6;"> Transparent </span> </span>
     </td>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Spotify/Play.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Spotify/play.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="color:white; padding: 5px; border-radius: 5px; ">Play
         <span style="opacity: 0.6;"> Transparent </span> </span>
     </td>
@@ -733,7 +731,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
         <span style="opacity: 0.6;"> Transparent </span> </span>
     </td>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Spotify/Repeat All.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Spotify/Repeat all.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="color:white; padding: 5px; border-radius: 5px; ">Repeat All
         <span style="opacity: 0.6;"> Transparent </span> </span>
     </td>

@@ -4,7 +4,7 @@ This is my personal development environment — terminal themes, VS Code setup, 
 
 While this setup is highly personalized, parts of it may be useful to anyone looking to build their own modular, dark-mode-friendly workspace.
 
-It is constantly being changed and is still a work in progress
+This setup is constantly evolving and still a work in progress.
 
 ## Contents
 
@@ -205,7 +205,7 @@ Icons are grouped by category, and hex codes are included for easy customization
 Use this guide to stay visually organized or tweak it to match your personal theme.
 
 <details> 
-<summary Style="font-size: 1.5em; font-weight: 600">Programs</summary>
+<summary style="font-size: 1.5em; font-weight: 600">Programs</summary>
 <table>
   <tr>
     <td align="center">
@@ -280,7 +280,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
 </details>
 
 <details> 
-<summary Style="font-size: 1.5em; font-weight: 600">Adobe</summary>
+<summary style="font-size: 1.5em; font-weight: 600">Adobe</summary>
 <table>
   <tr>
     <td align="center">
@@ -305,7 +305,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
 </details>
 
 <details>
-<summary Style="font-size: 1.5em; font-weight: 600">Internet</summary>
+<summary style="font-size: 1.5em; font-weight: 600">Internet</summary>
 
 ### Web Shortcuts
 
@@ -379,7 +379,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
 </details>
 
 <details>
-<summary Style="font-size: 1.5em; font-weight: 600">Games</summary>
+<summary style="font-size: 1.5em; font-weight: 600">Games</summary>
 
   <table>
     <tr>
@@ -458,7 +458,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
   </details>
 
 <details>
-<summary Style="font-size: 1.5em; font-weight: 600">File Explorer</summary>
+<summary style="font-size: 1.5em; font-weight: 600">File Explorer</summary>
 
   <table>
     <tr>
@@ -533,7 +533,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
 </details>
 
 <details>
-<summary Style="font-size: 1.5em; font-weight: 600">Zoom</summary>
+<summary style="font-size: 1.5em; font-weight: 600">Zoom</summary>
 <table>
     <tr>
       <td align="center">
@@ -567,7 +567,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
 </details>
 
 <details>
-<summary Style="font-size: 1.5em; font-weight: 600">System Icons</summary>
+<summary style="font-size: 1.5em; font-weight: 600">System Icons</summary>
 <table>
     <tr>
       <td align="center">
@@ -613,7 +613,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
 </details>
 
 <details>
-<summary Style="font-size: 1.5em; font-weight: 600">Discord</summary>
+<summary style="font-size: 1.5em; font-weight: 600">Discord</summary>
 
 <table>
     <tr>
@@ -653,7 +653,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
 </details>
 
 <details>
-<summary Style="font-size: 1.5em; font-weight: 600">Spotify</summary>
+<summary style="font-size: 1.5em; font-weight: 600">Spotify</summary>
 <table>
     <tr>
     <td align="center">

@@ -614,38 +614,34 @@ Web Controls
 
 <details>
 <summary style="font-size: 1.5em; font-weight: 600">Discord</summary>
-
 <table>
     <tr>
-    <td align="center">
+      <td align="center">
         <img src="./touch-portal/touch-portal-icons/Discord/Deafend.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
-        <span style="color:white; padding: 5px; border-radius: 5px; ">Deafend
+        <span style="color:white; padding: 5px; border-radius: 5px; ">Deafend 
         <span style="opacity: 0.6;"> Transparent </span> </span>
       </td>
-        <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Discord/Undeafend.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
-        <span style="color:white; padding: 5px; border-radius: 5px; ">Undeafend      
-        <span style="opacity: 0.6;"> Transparent </span> </span>
+      <td align="center">
+        <img src="./touch-portal/touch-portal-icons/Discord/Undeafend.png" width="75px"/><br/>
+        <span style="color:white; padding: 5px; border-radius: 5px;">Undeafend
+        <span style="opacity: 0.6;"> Transparent </span></span>
       </td>
+      <td align="center">
+        <img src="./touch-portal/touch-portal-icons/Discord/Muted.png" width="75px" Height="75px" Style="object-fit: contain;"/><br/>
+        <span style="color:white; padding: 5px; border-radius: 5px;">Muted 
+        <span style="opacity: 0.6;"> Transparent </span></span>
       </td>
-        <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Discord/Muted.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
-        <span style="color:white; padding: 5px; border-radius: 5px; ">Muted      
-        <span style="opacity: 0.6;"> Transparent </span> </span>
+      <td align="center">
+        <img src="./touch-portal/touch-portal-icons/Discord/Unmute.png" width="75px"/><br/>
+        <span style="color:white; padding: 5px; border-radius: 5px;">Unmuted
+        <span style="opacity: 0.6;"> Transparent </span></span>
       </td>
-      </td>
-        <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Discord/Unmute.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
-        <span style="color:white; padding: 5px; border-radius: 5px; ">Unmuted      
-        <span style="opacity: 0.6;"> Transparent </span> </span>
-      </td>
-      </table>
+    </tr>
     <tr>
-  <table>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Discord/HangUp.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
-        <span style="color:white; padding: 5px; border-radius: 5px; ">Hang up
-        <span style="opacity: 0.6;"> Transparent </span> </span>
+        <img src="./touch-portal/touch-portal-icons/Discord/HangUp.png" width="75px"/><br/>
+        <span style="color:white; padding: 5px; border-radius: 5px;">Hangup
+        <span style="opacity: 0.6;"> Transparent </span></span>
       </td>
     </tr>
   </table>

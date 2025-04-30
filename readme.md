@@ -121,7 +121,7 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 
 - **Adobe Tools** – Opens with Photoshop or Illustrator. Switch between Photoshop tools, Photoshop actions, and Illustrator tools for quick-access workflows.
 
-- **Zoom** – Opens with Zoom. Offers meeting controls for mute, camera toggle, chat view, audience view, hang up, and join call.
+- **Zoom** – Opens with Zoom. Offers meeting controls for mute, camera toggle, chat view, audience view, hang up, and share screen.
 
 - **Games** – Opens with Steam. Displays common game launchers and favorite game shortcuts.
 

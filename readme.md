@@ -639,7 +639,7 @@ Web Controls
         <span style="color:white; padding: 5px; border-radius: 5px; ">Unmuted      
         <span style="opacity: 0.6;"> Transparent </span> </span>
       </td>
-      <table>
+      </table>
     <tr>
   <table>
     <td align="center">

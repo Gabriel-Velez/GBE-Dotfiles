@@ -641,6 +641,7 @@ Web Controls
       </td>
       <table>
     <tr>
+  <table>
     <td align="center">
         <img src="./touch-portal/touch-portal-icons/Discord/HangUp.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="color:white; padding: 5px; border-radius: 5px; ">Hang up

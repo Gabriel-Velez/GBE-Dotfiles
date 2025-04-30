@@ -307,7 +307,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
 <details>
 <summary style="font-size: 1.5em; font-weight: 600">Internet</summary>
 
-### Web Shortcuts
+Web Shortcuts
 
 <table>
   <tr>
@@ -344,7 +344,7 @@ Use this guide to stay visually organized or tweak it to match your personal the
      </tr>
   </table>
 
-### Web Controls
+Web Controls
 
   <table>
     <tr>

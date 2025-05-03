@@ -608,6 +608,20 @@ Web Controls
         <span style="color:white; padding: 5px; border-radius: 5px; ">Unlcoked      
         <span style="opacity: 0.6;"> Transparent </span> </span>
       </td>
+      </td>
+        <td align="center">
+        <img src="./touch-portal/touch-portal-icons/System Icons/Menu.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <span style="color:white; padding: 5px; border-radius: 5px; ">Menu      
+        <span style="opacity: 0.6;"> Transparent </span> </span>
+      </td>
+    </tr>
+    <tr>
+      </td>
+        <td align="center">
+        <img src="./touch-portal/touch-portal-icons/System Icons/Back.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <span style="color:white; padding: 5px; border-radius: 5px; ">Back      
+        <span style="opacity: 0.6;"> Transparent </span> </span>
+      </td>
     </tr>
   </table>
 </details>

@@ -166,7 +166,7 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 
   - Access your games quickly by touching the tiltle in the _Programs_ page.
 
-- **File Explorer** - Opened manually. Quick navigation for file management:
+- **File Explorer** - Openes with file explorer. Quick navigation for file management:
 
   - Adds functions as buttons like: New Folder, New Window, Rename, Preview pane, and Properties
 

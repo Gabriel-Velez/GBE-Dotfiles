@@ -796,20 +796,6 @@ Web Controls
   </table>
 </details>
 
-## Attribution:
-
-- **Adobe/Arbi Photoshop Tools Pack/** — Icons by **Arbi Barbarona**
-
-  - Facebook: [arbibarbarona](https://www.facebook.com/arbibarbarona)
-  - Original `info.txt` included in the folder.
-
-- **Discord/Discord Vanilla Icon Pack/** — Icons by **BreezyBat**
-  - Twitch: [breezybat](https://twitch.tv/breezybat)
-  - Original `info.txt` included in the folder.
-  - _Modified by me to remove backgrounds for transparency._
-
-> ⚠️ Most icons are intended for **personal use only**. Avoid redistributing without checking original sources.
-
 # 🧑‍💻 VS Code Setup
 
 This section covers my VS Code setup—focused on a minimalist, distraction-free coding environment.

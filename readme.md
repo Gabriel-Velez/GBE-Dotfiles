@@ -887,4 +887,3 @@ This syncs my wallpapers with my day/night workflow, creating a subtle but effec
 
 Crafted by **Gabe** — a workspace built for speed, comfort, and dark mode aesthetics. Remix, borrow, or take inspiration freely. If you use it, I'd love to see how you make it your own!
 
-Thank you to **Arbi Barbarona** and **BreezyBat** for your wonderful icons

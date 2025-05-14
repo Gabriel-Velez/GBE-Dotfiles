@@ -11,36 +11,53 @@ This setup is constantly evolving and still a work in progress.
 ```
 GBE-DOTFILES/
 ├── oh-my-posh/              # Shell & terminal config
-│   └── gbe-theme.omp.json    # Oh My Posh theme
 │
-├─ touch-portal/             # Touch portal files
-│   ├── touch-portal-pages/     # Touch portal pages
+├── touch-portal/            # Touch Portal files
+│   ├── touch-portal-pages/     # Touch Portal pages
 │   │   ├── Adobe Tools/          # Illustrator, Photoshop tools
-│   │   ├── Coding Tools/         # JavaScript, Language switchers
+│   │   │   ├── Illustrator/
+│   │   │   └── Photoshop/
+│   │   ├── Coding Tools/         # Coding snippets for specific coding langauges
+│   │   │   ├── CSS/
+│   │   │   ├── GIT/
+│   │   │   ├── HTML/
+│   │   │   ├── JavaScript/
+│   │   │   ├── Mark-Down/
+│   │   │   ├── Python/
+│   │   │   ├── Regex/
+│   │   │   ├── SQL/
+│   │   │   └── Terminal/
 │   │   ├── Discord/              # Voice and call controls
 │   │   ├── File Explorer/        # Folder nav, drive shortcuts
 │   │   ├── Games/                # Game launchers
 │   │   ├── Main Menu/            # Navigation hub
-│   │   ├── Programs/             # Most-used apps
+│   │   ├── Programs/             # Most-used apps and dev tools
 │   │   ├── Spotify/              # Music controls
 │   │   ├── Web Browser/          # Tab management + quick access
+│   │   │   ├── Youtube/            # Playback and Video Controls
+│   │   │   └── Youtube Music/      # Playback and Music Controls
 │   │   ├── Zoom/                 # Meeting controls
 │   │   ├── gbe-all-pages.tpz2    # Full backup of all pages
 │   │   └── gbe-clock.tpz2        # Standalone clock plugin page
-│   └── touch-portal-icons/     # PNG imgs used for the buttons
-│       ├── Adobe/                # Adobe apps & tools
-│       ├── Discord/              # Voice control icons
-│       ├── File Explorer/        # Navigation + drive icons
-│       ├── Games/                # Launcher & game icons
-│       ├── Icons/                # Arrows, locks, misc UI
-│       ├── Internet/             # Browser functions & shortcuts
-│       ├── Programs/             # App icons (VS Code, Slack, etc.)
+│   └── touch-portal-icons/     # PNG images used for buttons
+│       ├── Adobe/                # Adobe app icons
+│       │   ├── Illustrator Tools/  # Illustrator specifc tools
+│       │   └── Photoshop Tools/    # Photoshop specifc tools
+│       ├── Discord/              # Mic, headphone, call icons
+│       ├── File Explorer/        # Drive, folder icons
+│       ├── Games/                # Game and launcher icons
+│       ├── Programs/             # VS Code, Slack, etc.
 │       ├── Spotify/              # Playback icons
-│       └── Zoom/                 # Meeting controls
+│       ├── System Icons/         # Arrows, locks, UI indicators
+│       ├── Web Browser/          # Browser tools
+│       └── Zoom/                 # Video conferencing icons
 │
 ├── vscode/                 # Editor setup
 │   ├── settings.json        # Font, theme, layout, etc.
 │   └── extensions.txt       # List of installed extensions
+│
+├── wallpaper-engine/       # Dynamic wallpaper settings
+│   └── config.json           # Settings for wallpaper engine
 │
 └── README.md               # You're here!
 ```
@@ -109,9 +126,31 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 
   - Quick launch shortcuts for YouTube, YouTube Music, Netflix, Reddit, Amazon, and Twitch.
 
-- **Coding Tools** – Opens with VS Code. Choose a language like HTML, CSS, JavaScript, etc.
+- **YouTube & YouTube Music** – Opens with the respective web apps or browser tab with a interface for playback control:
 
-  - **JavaScript** has full macros built out for declarations, loops, conditionals, methods, and array functions across two pages.
+  - Play/pause, skip forward/backward, rewind 10s, fast-forward 10s, volume up/down, and mute toggle.
+
+- **Coding Tools** – Opens with VS Code. Access a wide range of snippet pages for each major language:
+
+  - **HTML** – Tags for structure (div, class, headings, paragraphs, anchor tags, buttons, scripts, and boilerplate).
+
+  - **CSS** – Property snippets for layout (Flexbox, Grid), spacing (margin, padding), styling (color, background), and positioning (z-index, display, position).
+
+  - **JavaScript** – Two full pages covering declarations, loops, conditionals, class methods, console logs, and flow control blocks (if, else, for, while, etc.).
+
+  - **Python** – Quick-insert for print, variables, functions, loops, if/else, imports, and common statements like return, input(), and dictionary usage.
+
+  - **Regex** – Prebuilt patterns for digits, word characters, whitespace, boundaries, groups, and special lookahead/lookbehind structures.
+
+  - **SQL** – Query snippets including SELECT, INSERT, UPDATE, DELETE, WHERE, JOIN, ORDER BY, and table creation/modification.
+
+  - **GIT** – Essential commands: commit, push, pull, status, branch creation, checkout, clone, and stash.
+
+  - **Terminal** – Common shell commands: list files, change directory, make/remove folders, clear terminal, print path, and run scripts.
+
+  - **Mark Down** – Headers, formatting (bold, italic), links, images, inline/code blocks, and smart buttons for dynamic numbered lists and growing tables.
+
+  - Easily navigate between languages and back to the Coding Languages menu at any time.
 
 - **Discord** – Opens with Discord. Uses a plugin to handle mute, deafen, and call controls.
 
@@ -160,32 +199,42 @@ My setup focuses on workflow automation for common, repetitive tasks while provi
 <table>
   <tr>
     <td align="center">
-      <img src="./touch-portal/touch-portal-pages/Programs/GBE-TouchPortal-Programs.png" alt="Programs" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Programs/Programs.png" alt="Programs" /><br/>
       <strong>Programs</strong>
     </td>
     <td align="center">
-      <img src="./touch-portal/touch-portal-pages/Web Browser/GBE-TouchPortal-Web-Browser.png" alt="Web Browser" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Web Browser/Web-Browser.png" alt="Web Browser" /><br/>
       <strong>Web Browser</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./touch-portal/touch-portal-pages/Discord/GBE-TouchPortal-Discord.png" alt="Discord" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Discord/Discord.png" alt="Discord" /><br/>
       <strong>Discord</strong>
     </td>
     <td align="center">
-      <img src="./touch-portal/touch-portal-pages/File Explorer/GBE-TouchPortal-File-Explorer.png" alt="File Explorer" /><br/>
+      <img src="./touch-portal/touch-portal-pages/File Explorer/File-Explorer.png" alt="File Explorer" /><br/>
       <strong>File Explorer</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./touch-portal/touch-portal-pages/Games/GBE-TouchPortal-Games.png" alt="Games" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Games/Games.png" alt="Games" /><br/>
       <strong>Games</strong>
     </td>
     <td align="center">
-      <img src="./touch-portal/touch-portal-pages/Main Menu/GBE-TouchPortal-Main-Menu.png" alt="Main Menu" /><br/>
+      <img src="./touch-portal/touch-portal-pages/Main Menu/Main-Menu.png" alt="Main Menu" /><br/>
       <strong>Main Menu</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./touch-portal/touch-portal-pages/Spotify/Spotify.png" alt="Spotify" /><br/>
+      <strong>Spotify</strong>
+    </td>
+    <td align="center">
+      <img src="./touch-portal/touch-portal-pages/Web Browser/Youtube/YouTube.png" alt="Youtube" /><br/>
+      <strong>YouTube</strong>
     </td>
   </tr>
 </table>
@@ -312,33 +361,33 @@ Web Shortcuts
 <table>
   <tr>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Shortcuts/Amazon.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Shortcuts/Amazon.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
         <span style="background-color:#F79400; color:white; padding: 5px; border-radius: 5px;">Amazon #F79400</span>
      </td>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Shortcuts/Gmail.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Shortcuts/Gmail.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
         <span style="background-color:#ffffff; color:black; padding: 5px; border-radius: 5px;">Gmail #ffffff</span>
      </td>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Shortcuts/Netflix.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Shortcuts/Netflix.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
         <span style="background-color:#000000; color:white; padding: 5px; border-radius: 5px;">Netflix #000000</span>
      </td>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Shortcuts/Reddit.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Shortcuts/Reddit.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
         <span style="background-color:#FF3F18; color:white; padding: 5px; border-radius: 5px;">Reddit #FF3F18</span>
      </td>
      </tr>
   <tr>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Shortcuts/Twitch.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Shortcuts/Twitch.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
         <span style="background-color:#6C2498; color:white; padding: 5px; border-radius: 5px;">Twitch #6C2498</span>
      </td>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Shortcuts/Youtube.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Shortcuts/Youtube.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
         <span style="background-color:#FF0000; color:white; padding: 5px; border-radius: 5px;">Youtube #FF0000</span>
      </td>
     <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Shortcuts/Youtube Music.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Shortcuts/Youtube Music.png" width="75px" height="75px" Style="object-fit: contain;"/></br>
         <span style="background-color:#FF0000; color:white; padding: 5px; border-radius: 5px;">Youtube Music #FF0000</span>
      </td>
      </tr>
@@ -349,29 +398,29 @@ Web Controls
   <table>
     <tr>
       <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Functions/New Tab.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Functions/New Tab.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="background-color:#888888; color:white; padding: 5px; border-radius: 5px;">New Tab #888888</span>
       </td>
       <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Functions/New Window.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Functions/New Window.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="background-color:#888888; color:white; padding: 5px; border-radius: 5px;">New Window #888888</span>
       </td>
       <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Functions/Back.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Functions/Back.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="background-color:#888888; color:white; padding: 5px; border-radius: 5px;">Back #888888</span>
       </td>
       <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Functions/Refresh.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Functions/Refresh.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="background-color:#888888; color:white; padding: 5px; border-radius: 5px;">Refresh #888888</span>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Functions/Incognito.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Functions/Incognito.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="background-color:#888888; color:white; padding: 5px; border-radius: 5px;">Incognito #888888</span>
       </td>
       <td align="center">
-        <img src="./touch-portal/touch-portal-icons/Internet/Functions/Close Icon.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
+        <img src="./touch-portal/touch-portal-icons/Web Browser/Functions/Close Icon.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="background-color:#888888; color:white; padding: 5px; border-radius: 5px;">Close #888888</span>
       </td>
     </tr>
@@ -522,10 +571,6 @@ Web Controls
       <td align="center">
         <img src="./touch-portal/touch-portal-icons/File Explorer/Properties.png" width="75px" height="75px" Style="object-fit: contain;"/><br/>
         <span style="background-color:#888888; color:white; padding: 5px; border-radius: 5px;">Properties #888888</span>
-      </td>
-      <td align="center">
-        <img src="./touch-portal/touch-portal-icons/File Explorer/Close Icon.png" width="75px" height="75px" Style="object-fit: contain;" /><br/>
-        <span style="background-color:#888888; color:white; padding: 5px; border-radius: 5px;">Close Icon #888888</span>
       </td>
     </tr>
     </tr>
